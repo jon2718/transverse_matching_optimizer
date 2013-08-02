@@ -1,0 +1,754 @@
+TMatching Client
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/Matching Client.LinkFileList
+c0000000050E5E40F00000000000000B8
+t1357243407
+s184
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o
+t1357329723
+s275212
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client
+t1357333740
+s49308
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib
+c0000000050E72E4C0000000000006780
+t1357327948
+s26496
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib
+c0000000050E744EB0000000000011340
+t1357333739
+s70464
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug/libRoot Plotting Extensions.dylib
+c0000000050E72E9A000000000000CFC4
+t1357328026
+s53188
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib
+c0000000050E72E9B000000000001133C
+t1357328027
+s70460
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug/liboptimizers.dylib
+c0000000050E7318F00000000000294A0
+t1357328783
+s169120
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../Metrics/liblinear_alg_objects.dylib
+c00000000505CE587000000000000FF14
+t1348265351
+s65300
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp
+c0000000050E746380000000000000C11
+t1357334072
+s3089
+i<iostream>
+i"amoeba.h"
+i"objectivefunctional.h"
+i"match_functional_multi.h"
+i"symp1d.h"
+i"sep_hamiltonian.h"
+i"bspline_gsl.h"
+i"TApplication.h"
+i"particle_collection.h"
+i"TCanvas.h"
+i"symp1d.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/libPhase Space Propagation.dylib
+c0000000050A2E288000000000000779C
+t1352852104
+s30620
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2d.h
+c0000000050C9F90600000000000002DF
+t1355413766
+s735
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h
+c0000000050E6526E0000000000000659
+t1357271662
+s1625
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/bspline_gsl.h
+c0000000050E01ED400000000000009FE
+t1356865236
+s2558
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+c0000000050DF4F52000000000000017E
+t1356812114
+s382
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h
+c0000000050E72F180000000000000227
+t1357328152
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+c0000000050A2E27900000000000002B4
+t1352852089
+s692
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050E72E64000000000000059A
+t1357327972
+s1434
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+c0000000050E5E40C0000000000000582
+t1357243404
+s1410
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h
+c0000000050E72EE100000000000003ED
+t1357328097
+s1005
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/matrix.h
+c0000000050D4A09D000000000000073C
+t1356112029
+s1852
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/objective.h
+c0000000050A2D28F0000000000000227
+t1352848015
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/objectivefunctional.h
+c0000000050A2D28F00000000000002E4
+t1352848015
+s740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h
+c0000000050DCC29A0000000000000368
+t1356645018
+s872
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/particle_collection.h
+c0000000050DD082A000000000000039D
+t1356662826
+s925
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+c0000000050E5E40C0000000000000D23
+t1357243404
+s3363
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/symp1d.h
+c0000000050A2E2790000000000000434
+t1352852089
+s1076
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_bspline.h
+c000000004FE8F90E0000000000000DF9
+t1340668174
+s3577
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_machine.h
+c000000004FE8F90F0000000000000EDD
+t1340668175
+s3805
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_math.h
+c000000004FE8F90F00000000000010F9
+t1340668175
+s4345
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_minmax.h
+c000000004FE8F90F0000000000000A48
+t1340668175
+s2632
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_nan.h
+c000000004FE8F90F0000000000000537
+t1340668175
+s1335
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_pow_int.h
+c000000004FE8F90F00000000000008FD
+t1340668175
+s2301
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_precision.h
+c000000004FE8F90F00000000000006F4
+t1340668175
+s1780
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_sys.h
+c000000004FE8F90900000000000007A2
+t1340668169
+s1954
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+
+N/usr/local/include/Buttons.h
+c000000004EAEF3B90000000000000743
+t1320088505
+s1859
+
+N/usr/local/include/DllImport.h
+c000000004EAEF3B900000000000003E2
+t1320088505
+s994
+
+N/usr/local/include/GuiTypes.h
+c000000004EAEF3B90000000000004220
+t1320088505
+s16928
+
+N/usr/local/include/Math/ParamFunctor.h
+c000000004EAEF3BA0000000000001CBE
+t1320088506
+s7358
+
+N/usr/local/include/RConfig.h
+c000000004EAEF3B90000000000003F98
+t1320088505
+s16280
+
+N/usr/local/include/RVersion.h
+c000000004EAEF3B90000000000000260
+t1320088505
+s608
+
+N/usr/local/include/Riosfwd.h
+c000000004EAEF3B90000000000000674
+t1320088505
+s1652
+
+N/usr/local/include/Rtypeinfo.h
+c000000004EAEF3B900000000000003F5
+t1320088505
+s1013
+
+N/usr/local/include/Rtypes.h
+c000000004EAEF3B9000000000000459C
+t1320088505
+s17820
+
+N/usr/local/include/TApplication.h
+c000000004EAEF3B90000000000001D31
+t1320088505
+s7473
+
+N/usr/local/include/TApplicationImp.h
+c000000004EAEF3B9000000000000092C
+t1320088505
+s2348
+
+N/usr/local/include/TAttCanvas.h
+c000000004EAEF3BA0000000000000ABF
+t1320088506
+s2751
+
+N/usr/local/include/TAttFill.h
+c000000004EAEF3B9000000000000090D
+t1320088505
+s2317
+
+N/usr/local/include/TAttLine.h
+c000000004EAEF3B900000000000009E7
+t1320088505
+s2535
+
+N/usr/local/include/TAttMarker.h
+c000000004EAEF3B90000000000000B59
+t1320088505
+s2905
+
+N/usr/local/include/TAttPad.h
+c000000004EAEF3B90000000000001316
+t1320088505
+s4886
+
+N/usr/local/include/TAttText.h
+c000000004EAEF3B90000000000000B2D
+t1320088505
+s2861
+
+N/usr/local/include/TBits.h
+c000000004EAEF3B9000000000000224A
+t1320088505
+s8778
+
+N/usr/local/include/TBuffer.h
+c000000004EAEF3B90000000000005453
+t1320088505
+s21587
+
+N/usr/local/include/TCanvas.h
+c000000004EAEF3BA0000000000003086
+t1320088506
+s12422
+
+N/usr/local/include/TCanvasImp.h
+c000000004EAEF3B90000000000001092
+t1320088505
+s4242
+
+N/usr/local/include/TCollection.h
+c000000004EAEF3B900000000000020D7
+t1320088505
+s8407
+
+N/usr/local/include/TF1.h
+c000000004EAEF3BA00000000000041FA
+t1320088506
+s16890
+
+N/usr/local/include/TFitResultPtr.h
+c000000004EAEF3BA0000000000000827
+t1320088506
+s2087
+
+N/usr/local/include/TFormula.h
+c000000004EAEF3BA0000000000002D73
+t1320088506
+s11635
+
+N/usr/local/include/TGenericClassInfo.h
+c000000004EAEF3B90000000000001C13
+t1320088505
+s7187
+
+N/usr/local/include/TGraph.h
+c000000004EAEF3BA00000000000025B0
+t1320088506
+s9648
+
+N/usr/local/include/TIterator.h
+c000000004EAEF3B900000000000007A2
+t1320088505
+s1954
+
+N/usr/local/include/TMathBase.h
+c000000004EAEF3B90000000000001CEC
+t1320088505
+s7404
+
+N/usr/local/include/TNamed.h
+c000000004EAEF3B90000000000000A52
+t1320088505
+s2642
+
+N/usr/local/include/TObjArray.h
+c000000004EAEF3B90000000000001BE1
+t1320088505
+s7137
+
+N/usr/local/include/TObject.h
+c000000004EAEF3B90000000000002730
+t1320088505
+s10032
+
+N/usr/local/include/TPad.h
+c000000004EAEF3BA0000000000006733
+t1320088506
+s26419
+
+N/usr/local/include/TQObject.h
+c000000004EAEF3B900000000000025F2
+t1320088505
+s9714
+
+N/usr/local/include/TSchemaHelper.h
+c000000004EAEF3B900000000000004B6
+t1320088505
+s1206
+
+N/usr/local/include/TSeqCollection.h
+c000000004EAEF3B90000000000000CD2
+t1320088505
+s3282
+
+N/usr/local/include/TStorage.h
+c000000004EAEF3B90000000000001003
+t1320088505
+s4099
+
+N/usr/local/include/TString.h
+c000000004EAEF3B90000000000007826
+t1320088505
+s30758
+
+N/usr/local/include/TVectorDfwd.h
+c000000004EAEF3BA00000000000004D5
+t1320088506
+s1237
+
+N/usr/local/include/TVectorFfwd.h
+c000000004EAEF3BA00000000000004D4
+t1320088506
+s1236
+
+N/usr/local/include/TVersionCheck.h
+c000000004EAEF3B900000000000005FC
+t1320088505
+s1532
+
+N/usr/local/include/TVirtualPad.h
+c000000004EAEF3B90000000000003217
+t1320088505
+s12823
+
+N/usr/local/include/TVirtualX.h
+c000000004EAEF3B90000000000004B73
+t1320088505
+s19315
+
+N/usr/local/include/snprintf.h
+c000000004EAEF3B900000000000003EF
+t1320088505
+s1007
+
+N/usr/local/include/strlcpy.h
+c000000004EAEF3B90000000000000352
+t1320088505
+s850
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies83fa36ba7d97b641^132b37ba7d97b641^---0#1#0#--18"Check dependencies36"0E2A1E4B-A423-4DA4-95EA-514F370B4938-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379026874.219222
+e379026875.082521
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:
+oIn file included from /usr/local/include/TCanvas.h:25:
+oIn file included from /usr/local/include/TPad.h:26:
+oIn file included from /usr/local/include/TVirtualPad.h:30:
+oIn file included from /usr/local/include/TVirtualX.h:28:
+oIn file included from /usr/local/include/TNamed.h:29:
+o/usr/local/include/TString.h:472:40: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(Length(), 0, cs, cs ? strlen(cs) : 0); }
+o                                     ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:484:26: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Append(cs, cs ? strlen(cs) : 0); }
+o                       ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:538:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : (Ssiz_t)0, (Ssiz_t)0, cmp) == 0; }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:547:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : 0, (Ssiz_t)0, cmp) != kNPOS; }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:562:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : 0, i, cmp); }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:572:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(pos, 0, cs, cs ? strlen(cs) : 0); }
+o                                ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:584:33: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(0, 0, cs, cs ? strlen(cs) : 0); }
+o                              ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:605:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(pos, n, cs, cs ? strlen(cs) : 0); }
+o                                ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:618:54: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1.Data(), s1.Length(), s2, s2 ? strlen(s2) : 0); }
+o                                                   ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:621:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2.Data(), s2.Length()); }
+o                           ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:624:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }
+o                           ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:624:55: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }
+o                                                    ~ ^~~~~~~~~~
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:76:11: warning: unused variable 'main_canvas' [-Wunused-variable]
+o        TCanvas *main_canvas = new TCanvas("Main Canvas", "Multipads", w, h);
+o                 ^
+o13 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cppcd3d38ba7d97b641^541e15bb7d97b641^-4131"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:In file included from /usr/local/include/TCanvas.h:25:In file included from /usr/local/include/TPad.h:26:In file included from /usr/local/include/TVirtualPad.h:30:In file included from /usr/local/include/TVirtualX.h:28:In file included from /usr/local/include/TNamed.h:29:/usr/local/include/TString.h:472:40: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(Length(), 0, cs, cs ? strlen(cs) : 0); }                                     ~ ^~~~~~~~~~/usr/local/include/TString.h:484:26: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Append(cs, cs ? strlen(cs) : 0); }                       ~ ^~~~~~~~~~/usr/local/include/TString.h:538:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : (Ssiz_t)0, (Ssiz_t)0, cmp) == 0; }                    ~ ^~~~~~~~~/usr/local/include/TString.h:547:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : 0, (Ssiz_t)0, cmp) != kNPOS; }                    ~ ^~~~~~~~~/usr/local/include/TString.h:562:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : 0, i, cmp); }                    ~ ^~~~~~~~~/usr/local/include/TString.h:572:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(pos, 0, cs, cs ? strlen(cs) : 0); }                                ~ ^~~~~~~~~~/usr/local/include/TString.h:584:33: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(0, 0, cs, cs ? strlen(cs) : 0); }                              ~ ^~~~~~~~~~/usr/local/include/TString.h:605:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(pos, n, cs, cs ? strlen(cs) : 0); }                                ~ ^~~~~~~~~~/usr/local/include/TString.h:618:54: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1.Data(), s1.Length(), s2, s2 ? strlen(s2) : 0); }                                                   ~ ^~~~~~~~~~/usr/local/include/TString.h:621:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2.Data(), s2.Length()); }                           ~ ^~~~~~~~~~/usr/local/include/TString.h:624:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }                           ~ ^~~~~~~~~~/usr/local/include/TString.h:624:55: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }                                                    ~ ^~~~~~~~~~/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:76:11: warning: unused variable 'main_canvas' [-Wunused-variable]        TCanvas *main_canvas = new TCanvas("Main Canvas", "Multipads", w, h);                 ^13 warnings generated.13(36%IDEClangDiagnosticActivityLogMessage2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#39#471#39#21314#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#39#471#49#21314#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#37#471#38#21312#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#25#483#25#21747#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#25#483#35#21747#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#23#483#24#21745#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#22#537#22#23244#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#22#537#31#23244#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#20#537#21#23242#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#22#546#22#23675#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#22#546#31#23675#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#20#546#21#23673#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#22#561#22#24275#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#22#561#31#24275#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#20#561#21#24273#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#34#571#34#24700#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#34#571#44#24700#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#32#571#33#24698#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#32#583#32#25158#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#32#583#42#25158#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#30#583#31#25156#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#34#604#34#25874#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#34#604#44#25874#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#32#604#33#25872#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#53#617#53#26475#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#53#617#63#26475#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#51#617#52#26473#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#29#620#29#26595#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#29#620#39#26595#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#27#620#28#26593#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#29#623#29#26735#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#29#623#39#26735#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#27#623#28#26733#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-379026875#18446744073709551615#0#8(2@119"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp:10:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^9#9#9#9#171#0#21"Clang LLVM 1.0 Notice--2@95"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/amoeba.h:18:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/amoeba.h0000000000000000^17#9#17#9#324#0#21"Clang LLVM 1.0 Notice--2@98"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/optimizer.h:15:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/optimizers/optimizer.h0000000000000000^14#9#14#9#282#0#21"Clang LLVM 1.0 Notice--2@54"In file included from /usr/local/include/TCanvas.h:25:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TCanvas.h0000000000000000^24#9#24#9#1223#0#21"Clang LLVM 1.0 Notice--2@51"In file included from /usr/local/include/TPad.h:26:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@41"file://localhost/usr/local/include/TPad.h0000000000000000^25#9#25#9#1296#0#21"Clang LLVM 1.0 Notice--2@58"In file included from /usr/local/include/TVirtualPad.h:30:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@48"file://localhost/usr/local/include/TVirtualPad.h0000000000000000^29#9#29#9#1365#0#21"Clang LLVM 1.0 Notice--2@56"In file included from /usr/local/include/TVirtualX.h:28:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@46"file://localhost/usr/local/include/TVirtualX.h0000000000000000^27#9#27#9#1460#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-379026875#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#54#623#54#26760#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#54#623#64#26760#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#52#623#53#26758#0#-2@29"Unused variable 'main_canvas'-379026875#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^75#10#75#10#1890#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching%20Client/Matching%20Client/main.cpp0000000000000000^2922"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o" "Matching Client/main.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Matching Client.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/Matching Client/main.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/main.o"36"B6C6472D-0E0A-4957-A82F-AB69C65C4CD5-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client" normal x86_64
+s379026875.089739
+e379026875.182622
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client4d1217bb7d97b641^7bd92ebb7d97b641^---0#0#0#--1806"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client" normal x86_64    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client" "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../Metrics" "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Matching Client/../DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/lib "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Matching Client.build/Debug/Matching Client.build/Objects-normal/x86_64/Matching Client.LinkFileList" -mmacosx-version-min=10.8 -L/usr/local/lib -lGpad -lHist -lGraf -lGraf3d -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lRIO -lNet -lThread -lCore -lCint -lpthread -Wl,-rpath,/usr/local/lib -lm -ldl -stdlib=libstdc++ -lMetrics -lTracking -loptimizers "-lRoot Plotting Extensions" -lInterpolators "-lPhase Space Propagation" -llinear_alg_objects -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/Matching Client"36"04BC8A9C-E185-4D6F-9304-B0AA2B42D022-
+

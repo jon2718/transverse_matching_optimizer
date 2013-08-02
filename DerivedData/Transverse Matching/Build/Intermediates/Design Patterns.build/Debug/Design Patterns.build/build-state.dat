@@ -1,0 +1,94 @@
+TDesign Patterns
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" normal x86_64
+cPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib"
+cPBXCp clonable.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/Design Patterns.LinkFileList
+c0000000050DF4E6900000000000000BC
+t1356811881
+s188
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o
+t1356811881
+s3044
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib
+t1356811881
+s4680
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp
+c0000000050DF4E3300000000000000A8
+t1356811827
+s168
+i"clonable.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.h
+c0000000050DF4E52000000000000017E
+t1356811858
+s382
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+t1356812114
+s382
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib
+t1356812114
+s4680
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb83cbe1f878fb641^5ddfbf1f878fb641^---0#1#0#--18"Check dependencies36"915CAD9A-3290-4784-AD70-1D974E9021D2-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s378504681.008509
+e378504681.570821
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cppb76302e9858fb641^2a1f92e9858fb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Design%20Patterns/clonable.cpp0000000000000000^3664"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o" clonable.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Design Patterns-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Design Patterns-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Design Patterns-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Design Patterns-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/clonable.o"36"5F37E74B-2C29-418A-BA48-17CCA769A522-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" normal x86_64
+s378504681.577790
+e378504681.974621
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib5c0294e9858fb641^2881f9e9858fb641^---0#0#0#--1232"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" normal x86_64    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Design Patterns.build/Debug/Design Patterns.build/Objects-normal/x86_64/Design Patterns.LinkFileList" -install_name "/usr/local/lib/libDesign Patterns.dylib" -mmacosx-version-min=10.8 -stdlib=libc++ -single_module -compatibility_version 1 -current_version 1 -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib"36"72859449-C9FA-4D6D-9E8B-8CE8E4DDA247-
+
+CPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib"
+s378504914.656385
+e378504914.777611
+r1
+xPBXCp
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib9294a8d2868fb641^3c16c7d2868fb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign%20Patterns.dylib000000000080d041^603"PBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libDesign Patterns.dylib"    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libDesign Patterns.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib36"08620217-4578-4EC6-A63F-E733E73E6D50-
+
+CPBXCp clonable.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+s378504914.785463
+e378504914.788191
+r1
+xPBXCp
+xclonable.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h842ac9d2868fb641^43c8c9d2868fb641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h000000000080d041^422"PBXCp clonable.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/Design Patterns/clonable.h" /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"4ADBA19D-97FF-430A-9615-1025642C0AC7-
+

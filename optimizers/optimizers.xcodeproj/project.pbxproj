@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FC0584771667968100B448F6 /* liboptimizers.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = FCB097D51652FEDB00364237 /* liboptimizers.dylib */; };
+		FC4C65641664F616009AAA2B /* optimizer.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = FCB097DE1652FF3F00364237 /* optimizer.h */; };
+		FC4C65651664F61C009AAA2B /* amoeba.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = FCB097E21652FF8F00364237 /* amoeba.h */; };
+		FC4E9437167A360A00692737 /* libRoot Plotting Extensions.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FC4E9436167A360A00692737 /* libRoot Plotting Extensions.dylib */; };
+		FC84855716602F0400A63986 /* liblinear_alg_objects.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FC84855616602F0400A63986 /* liblinear_alg_objects.dylib */; };
+		FCB097DF1652FF3F00364237 /* optimizer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FCB097DD1652FF3F00364237 /* optimizer.cpp */; };
+		FCB097E01652FF3F00364237 /* optimizer.h in Headers */ = {isa = PBXBuildFile; fileRef = FCB097DE1652FF3F00364237 /* optimizer.h */; };
+		FCB097E31652FF8F00364237 /* amoeba.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FCB097E11652FF8F00364237 /* amoeba.cpp */; };
+		FCB097E41652FF8F00364237 /* amoeba.h in Headers */ = {isa = PBXBuildFile; fileRef = FCB097E21652FF8F00364237 /* amoeba.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FC0584751667967200B448F6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /Users/Jon/Documents/BNL_Research/Developer/Matching/lib;
+			dstSubfolderSpec = 0;
+			files = (
+				FC0584771667968100B448F6 /* liboptimizers.dylib in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC4C65621664F608009AAA2B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /Users/Jon/Documents/BNL_Research/Developer/Matching/include;
+			dstSubfolderSpec = 0;
+			files = (
+				FC4C65651664F61C009AAA2B /* amoeba.h in CopyFiles */,
+				FC4C65641664F616009AAA2B /* optimizer.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FC4E9436167A360A00692737 /* libRoot Plotting Extensions.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libRoot Plotting Extensions.dylib"; path = "../DerivedData/Transverse Matching/Build/Products/Debug/libRoot Plotting Extensions.dylib"; sourceTree = "<group>"; };
+		FC84855616602F0400A63986 /* liblinear_alg_objects.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liblinear_alg_objects.dylib; path = "../DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib"; sourceTree = "<group>"; };
+		FCB097D51652FEDB00364237 /* liboptimizers.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = liboptimizers.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCB097DD1652FF3F00364237 /* optimizer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = optimizer.cpp; sourceTree = "<group>"; };
+		FCB097DE1652FF3F00364237 /* optimizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = optimizer.h; sourceTree = "<group>"; };
+		FCB097E11652FF8F00364237 /* amoeba.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = amoeba.cpp; sourceTree = "<group>"; };
+		FCB097E21652FF8F00364237 /* amoeba.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = amoeba.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FCB097D21652FEDB00364237 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC4E9437167A360A00692737 /* libRoot Plotting Extensions.dylib in Frameworks */,
+				FC84855716602F0400A63986 /* liblinear_alg_objects.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FCB097CA1652FEDB00364237 = {
+			isa = PBXGroup;
+			children = (
+				FC4E9436167A360A00692737 /* libRoot Plotting Extensions.dylib */,
+				FC84855616602F0400A63986 /* liblinear_alg_objects.dylib */,
+				FCB097DC1652FF0900364237 /* Source */,
+				FCB097D61652FEDB00364237 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FCB097D61652FEDB00364237 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FCB097D51652FEDB00364237 /* liboptimizers.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FCB097DC1652FF0900364237 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				FCB097DE1652FF3F00364237 /* optimizer.h */,
+				FCB097DD1652FF3F00364237 /* optimizer.cpp */,
+				FCB097E21652FF8F00364237 /* amoeba.h */,
+				FCB097E11652FF8F00364237 /* amoeba.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		FCB097D31652FEDB00364237 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FCB097E01652FF3F00364237 /* optimizer.h in Headers */,
+				FCB097E41652FF8F00364237 /* amoeba.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		FCB097D41652FEDB00364237 /* optimizers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FCB097D91652FEDB00364237 /* Build configuration list for PBXNativeTarget "optimizers" */;
+			buildPhases = (
+				FCB097D11652FEDB00364237 /* Sources */,
+				FCB097D21652FEDB00364237 /* Frameworks */,
+				FCB097D31652FEDB00364237 /* Headers */,
+				FC4C65621664F608009AAA2B /* CopyFiles */,
+				FC0584751667967200B448F6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = optimizers;
+			productName = optimizers;
+			productReference = FCB097D51652FEDB00364237 /* liboptimizers.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FCB097CC1652FEDB00364237 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Jon Lederman";
+			};
+			buildConfigurationList = FCB097CF1652FEDB00364237 /* Build configuration list for PBXProject "optimizers" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FCB097CA1652FEDB00364237;
+			productRefGroup = FCB097D61652FEDB00364237 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FCB097D41652FEDB00364237 /* optimizers */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FCB097D11652FEDB00364237 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FCB097DF1652FF3F00364237 /* optimizer.cpp in Sources */,
+				FCB097E31652FF8F00364237 /* amoeba.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FCB097D71652FEDB00364237 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		FCB097D81652FEDB00364237 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		FCB097DA1652FEDB00364237 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include/root,
+					/usr/local/include,
+					/opt/local/include/boost,
+					/opt/local/include,
+					/Users/Jon/Documents/BNL_Research/Developer/Matching/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../DerivedData/Transverse Matching/Build/Products/Debug\"",
+				);
+				OTHER_LDFLAGS = (
+					"-L/usr/local/lib/root",
+					"-lGpad",
+					"-lHist",
+					"-lGraf",
+					"-lGraf3d",
+					"-lTree",
+					"-lRint",
+					"-lPostscript",
+					"-lMatrix",
+					"-lPhysics",
+					"-lMathCore",
+					"-lRIO",
+					"-lNet",
+					"-lThread",
+					"-lCore",
+					"-lCint",
+					"-lpthread",
+					"-Wl,-rpath,/usr/local/lib",
+					"-lm",
+					"-ldl",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FCB097DB1652FEDB00364237 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include/root,
+					/usr/local/include,
+					/opt/local/include/boost,
+					/opt/local/include,
+					/Users/Jon/Documents/BNL_Research/Developer/Matching/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../DerivedData/Transverse Matching/Build/Products/Debug\"",
+				);
+				OTHER_LDFLAGS = (
+					"-L/usr/local/lib/root",
+					"-lGpad",
+					"-lHist",
+					"-lGraf",
+					"-lGraf3d",
+					"-lTree",
+					"-lRint",
+					"-lPostscript",
+					"-lMatrix",
+					"-lPhysics",
+					"-lMathCore",
+					"-lRIO",
+					"-lNet",
+					"-lThread",
+					"-lCore",
+					"-lCint",
+					"-lpthread",
+					"-Wl,-rpath,/usr/local/lib",
+					"-lm",
+					"-ldl",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FCB097CF1652FEDB00364237 /* Build configuration list for PBXProject "optimizers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCB097D71652FEDB00364237 /* Debug */,
+				FCB097D81652FEDB00364237 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FCB097D91652FEDB00364237 /* Build configuration list for PBXNativeTarget "optimizers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCB097DA1652FEDB00364237 /* Debug */,
+				FCB097DB1652FEDB00364237 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FCB097CC1652FEDB00364237 /* Project object */;
+}

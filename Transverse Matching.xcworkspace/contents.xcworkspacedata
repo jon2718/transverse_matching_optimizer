@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Matching Client/Matching Client.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tracking/Tracking.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:optimizers/optimizers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Metrics/Metrics.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Phase Space Propagation/Phase Space Propagation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Root Plotting Extensions/Root Plotting Extensions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:linear_alg_objects/linear_alg_objects.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Interpolators/Interpolators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Design Patterns/Design Patterns.xcodeproj">
+   </FileRef>
+</Workspace>

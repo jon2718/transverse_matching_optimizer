@@ -1,0 +1,710 @@
+TTracking
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" normal x86_64
+cPBXCp particle_collection.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/particle_collection.h
+cPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/errno.h
+c0000000050B2C3F700000000000003EB
+t1353892855
+s1003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c0000000050B2C3F700000000000066C2
+t1353892855
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c0000000050B2C3F80000000000004523
+t1353892856
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c0000000050B2C3F80000000000003089
+t1353892856
+s12425
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/Tracking.LinkFileList
+c0000000050E5E40C00000000000000B9
+t1357243404
+s185
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o
+t1357328027
+s269112
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib
+t1357328027
+s70460
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib
+c0000000050E72E990000000000008E1C
+t1357328025
+s36380
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib
+c0000000050E5DDD7000000000001183C
+t1357241815
+s71740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp
+c0000000050E60D0500000000000008B1
+t1357253893
+s2225
+i"particle_collection.h"
+i"physical_constants.h"
+i"math.h"
+i"map.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h
+c0000000050DD06E6000000000000039D
+t1356662502
+s925
+i<iostream>
+i"matrix.h"
+i"sep_hamiltonian.h"
+i"integrator.h"
+i"TGraph.h"
+i"TCanvas.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+c0000000050DF4F52000000000000017E
+t1356812114
+s382
+i<iostream>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+c0000000050A2E27900000000000002B4
+t1352852089
+s692
+i<iostream>
+i"sep_hamiltonian.h"
+i"interpolate_base.h"
+i"vector.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050E72E64000000000000059A
+t1357327972
+s1434
+i"vector.h"
+i"gsl/gsl_vector.h"
+i"clonable.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+c0000000050E5E40C0000000000000582
+t1357243404
+s1410
+i<iostream>
+i"matrix.h"
+i"vector.h"
+i"integrator.h"
+i"interpolate_base.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/matrix.h
+c0000000050D4A09D000000000000073C
+t1356112029
+s1852
+i"vector.h"
+i"gsl/gsl_vector.h"
+i"gsl/gsl_matrix.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/particle_collection.h
+t1356662826
+s925
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/physical_constants.h
+c0000000050CF8CA400000000000001A7
+t1355779236
+s423
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+c0000000050E5E40C0000000000000D23
+t1357243404
+s3363
+i<iostream>
+i"interpolate_base.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+i<iostream>
+i"gsl/gsl_vector.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib
+t1357328028
+s70460
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+i<stdlib.h>
+i<gsl/gsl_types.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+i<stdio.h>
+i<errno.h>
+i<gsl/gsl_types.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+i<gsl/gsl_matrix_complex_long_double.h>
+i<gsl/gsl_matrix_complex_double.h>
+i<gsl/gsl_matrix_complex_float.h>
+i<gsl/gsl_matrix_long_double.h>
+i<gsl/gsl_matrix_double.h>
+i<gsl/gsl_matrix_float.h>
+i<gsl/gsl_matrix_ulong.h>
+i<gsl/gsl_matrix_long.h>
+i<gsl/gsl_matrix_uint.h>
+i<gsl/gsl_matrix_int.h>
+i<gsl/gsl_matrix_ushort.h>
+i<gsl/gsl_matrix_short.h>
+i<gsl/gsl_matrix_uchar.h>
+i<gsl/gsl_matrix_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_int.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_short.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_uchar.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_uint.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_ulong.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_ushort.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+i<gsl/gsl_vector_complex_long_double.h>
+i<gsl/gsl_vector_complex_double.h>
+i<gsl/gsl_vector_complex_float.h>
+i<gsl/gsl_vector_long_double.h>
+i<gsl/gsl_vector_double.h>
+i<gsl/gsl_vector_float.h>
+i<gsl/gsl_vector_ulong.h>
+i<gsl/gsl_vector_long.h>
+i<gsl/gsl_vector_uint.h>
+i<gsl/gsl_vector_int.h>
+i<gsl/gsl_vector_ushort.h>
+i<gsl/gsl_vector_short.h>
+i<gsl/gsl_vector_uchar.h>
+i<gsl/gsl_vector_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_double.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_float.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long_double.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_int.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_long.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_short.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_uchar.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_uint.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_ulong.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_ushort.h>
+
+N/usr/local/include/TCanvas.h
+c000000004EAEF3BA0000000000003086
+t1320088506
+s12422
+
+N/usr/local/include/TGraph.h
+c000000004EAEF3BA00000000000025B0
+t1320088506
+s9648
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies07ec1eba7d97b641^f3391fba7d97b641^---0#1#0#--18"Check dependencies36"7AB8126B-E77D-4B24-BE40-314A6EE08373-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s379020825.460465
+e379020827.614029
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from /usr/local/include/TNamed.h:29,
+o                 from /usr/local/include/TGraph.h:25,
+o                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h:16,
+o                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp:9:
+o/usr/local/include/TString.h: In member function 'TString& TString::Append(const char*)':
+o/usr/local/include/TString.h:472: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::operator+=(const char*)':
+o/usr/local/include/TString.h:484: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Bool_t TString::BeginsWith(const char*, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:538: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Bool_t TString::Contains(const char*, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:547: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Ssiz_t TString::Index(const char*, Ssiz_t, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:562: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Insert(Ssiz_t, const char*)':
+o/usr/local/include/TString.h:572: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Prepend(const char*)':
+o/usr/local/include/TString.h:584: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Replace(Ssiz_t, Ssiz_t, const char*)':
+o/usr/local/include/TString.h:605: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const TString&, const char*)':
+o/usr/local/include/TString.h:618: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const TString&)':
+o/usr/local/include/TString.h:621: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const char*)':
+o/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp00fe75196697b641^054f9d1b6697b641^-2822"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from /usr/local/include/TNamed.h:29,                 from /usr/local/include/TGraph.h:25,                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h:16,                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp:9:/usr/local/include/TString.h: In member function 'TString& TString::Append(const char*)':/usr/local/include/TString.h:472: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::operator+=(const char*)':/usr/local/include/TString.h:484: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Bool_t TString::BeginsWith(const char*, TString::ECaseCompare) const':/usr/local/include/TString.h:538: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Bool_t TString::Contains(const char*, TString::ECaseCompare) const':/usr/local/include/TString.h:547: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Ssiz_t TString::Index(const char*, Ssiz_t, TString::ECaseCompare) const':/usr/local/include/TString.h:562: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Insert(Ssiz_t, const char*)':/usr/local/include/TString.h:572: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Prepend(const char*)':/usr/local/include/TString.h:584: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Replace(Ssiz_t, Ssiz_t, const char*)':/usr/local/include/TString.h:605: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const TString&, const char*)':/usr/local/include/TString.h:618: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const TString&)':/usr/local/include/TString.h:621: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const char*)':/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value13(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-379020826#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#481#105#5(36%IDEActivityLogHeaderInclusionMessage4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#18446744073709551615#471#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#18446744073709551615#471#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#680#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#18446744073709551615#483#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#18446744073709551615#483#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#906#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#18446744073709551615#537#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#18446744073709551615#537#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#1130#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#18446744073709551615#546#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#18446744073709551615#546#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#1359#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#18446744073709551615#561#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#18446744073709551615#561#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#1562#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#18446744073709551615#571#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#18446744073709551615#571#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#1758#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#18446744073709551615#583#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#18446744073709551615#583#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#1970#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#18446744073709551615#604#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#18446744073709551615#604#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#2185#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#18446744073709551615#617#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#18446744073709551615#617#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#2400#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#18446744073709551615#620#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#18446744073709551615#620#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#2612#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-379020827#2717#105#5(4@107"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp-379020827#18446744073709551615#0#-0#-3@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-379020827#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-379020827#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-379020827#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--0#0#0#-19%DVTDocumentLocation5@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp0000000000000000^2604"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o" particle_collection.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Tracking-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Tracking-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Tracking-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Tracking-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/particle_collection.o"36"F54289B6-F1DE-43CC-A98C-217144957D75-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" normal x86_64
+s379020827.620833
+e379020827.979561
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylibea099f1b6697b641^c8cffa1b6697b641^---0#0#0#--1579"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/usr/local/lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../DerivedData/Transverse Matching/Build/Products/Debug" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/Tracking.build/Objects-normal/x86_64/Tracking.LinkFileList" -install_name /usr/local/lib/libTracking.dylib -mmacosx-version-min=10.8 -L/usr/local/lib -lGpad -lHist -lGraf -lGraf3d -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lRIO -lNet -lThread -lCore -lCint -lpthread -Wl -lm -rpath,/usr/local/lib -stdlib=libc++ "-lPhase Space Propagation" -llinear_alg_objects -single_module -compatibility_version 1 -current_version 1 -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib"36"2085676E-399F-4772-8DA8-015881FE4B0E-
+
+CPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib
+s379020827.996616
+e379020828.001371
+r1
+xPBXCp
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib8f35ff1b6697b641^6e17021c6697b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib0000000000000000^571"PBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libTracking.dylib    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib36"69BECF6D-2389-44FA-B74F-EE2068758CD4-
+
+CPBXCp particle_collection.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/particle_collection.h
+r0
+

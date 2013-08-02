@@ -1,0 +1,531 @@
+TPhase Space Propagation
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" normal x86_64
+cPBXCp map.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+cPBXCp symp1d.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/symp1d.h
+cPBXCp integrator.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+cPBXCp physical_constants.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/physical_constants.h
+cPBXCp sep_hamiltonian.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+cPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylib"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c0000000050B2C3F700000000000066C2
+t1353892855
+s26306
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/Phase Space Propagation.LinkFileList
+c0000000050E5DDD70000000000000332
+t1357241815
+s818
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o
+t1357328024
+s32560
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o
+t1357328025
+s69596
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o
+t1357328024
+s38448
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o
+t1357328025
+s45624
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib
+t1357328025
+s36380
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp
+c000000005089D023000000000000011C
+t1351208995
+s284
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.h
+c0000000050A2E25800000000000002B4
+t1352852056
+s692
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/liblinear_alg_objects.dylib
+c00000000505CE587000000000000FF14
+t1348265351
+s65300
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp
+c0000000050E64028000000000000083C
+t1357266984
+s2108
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.h
+c0000000050E5D8B40000000000000582
+t1357240500
+s1410
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/physical_constants.h
+c0000000050CF8C9A00000000000001A7
+t1355779226
+s423
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp
+c0000000050E5E40600000000000006CF
+t1357243398
+s1743
+i"sep_hamiltonian.h"
+i"physical_constants.h"
+i"math.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.h
+c0000000050E5E3FF0000000000000D23
+t1357243391
+s3363
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp
+c0000000050A2E2780000000000001533
+t1352852088
+s5427
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.h
+c0000000050A2E2610000000000000434
+t1352852065
+s1076
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+c0000000050DF4F52000000000000017E
+t1356812114
+s382
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+t1352852089
+s692
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050E72E64000000000000059A
+t1357327972
+s1434
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+t1357243404
+s1410
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/matrix.h
+c0000000050D4A09D000000000000073C
+t1356112029
+s1852
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/physical_constants.h
+t1355779236
+s423
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+t1357243404
+s3363
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/symp1d.h
+t1352852089
+s1076
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylib
+t1357328025
+s36380
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp"
+r0
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp"
+r0
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp"
+r0
+
+CBuild AST from "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1bba11ba7d97b641^cae212ba7d97b641^---0#1#0#--18"Check dependencies36"AF4A1DAC-26BB-4D76-8481-4FC65CA1C5BD-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020824.409553
+e379020824.829731
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp05fa68186697b641^446cd4186697b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/integrator.cpp0000000000000000^3739"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o" integrator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/opt/local/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/integrator.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/integrator.o"36"A8AC6E0C-627A-4911-B245-12C729352CC3-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020824.863757
+e379020825.267424
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp1d3edd186697b641^d88044196697b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/map.cpp0000000000000000^3697"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o" map.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/opt/local/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/map.o"36"E416827A-310D-4BB3-ADC5-AF91FA9BC8BC-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020824.408679
+e379020824.862479
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp43c968186697b641^9be7dc186697b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/sep_hamiltonian.cpp0000000000000000^3769"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o" sep_hamiltonian.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/opt/local/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/sep_hamiltonian.o"36"13200DE4-3A4B-46C9-9C03-F9D1F313502D-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o" "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp" normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020824.831927
+e379020825.258595
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:77:15: warning: unused variable 'w6c' [-Wunused-variable]
+o        const double w6c[m6+2]={w6c0, 0.152886228424922E-2, -0.214403531630539E1, 0.144778256239930E1, 0};
+o                     ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:93:15: warning: unused variable 'w8e' [-Wunused-variable]
+o        const double w8e[m8+2]={w8e0, 0.227738840094906E-1, 0.252778927322839E1, -0.719180053552772E-1,0.536018921307285E-2, -0.20480979588739E1, 0.107990467703699E0, 0.130300165760014E1, 0};
+o                     ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:90:9: warning: unused variable 'w8b' [-Wunused-variable]
+o        double w8b[m8+2]={w8b0, -0.169248587770116E-2,  0.289195744315849E1,  0.378039588360192E-2, -0.289688250328827E1,  0.289105148970595E1, -0.233864815101035E1, 0.148819229202922E1, 0};
+o               ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:92:15: warning: unused variable 'w8d' [-Wunused-variable]
+o        const double w8d[m8+2]={w8d0, 0.102799849391985E0, -0.196061023297549E1, 0.193813913762276E1, 0.158240635368243E0, -0.144485223686048E1, 0.253693336566229E0, 0.914844246229740E0, 0};
+o                     ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:91:15: warning: unused variable 'w8c' [-Wunused-variable]
+o        const double w8c[m8+2]={w8c0, 0.311790812418427E0, -0.155946803821447E1, -0.167896928259640E1, 0.166335809963315E1, 0.136934946416871E1, 0.629030650210433E0, 0};
+o                     ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:76:15: warning: unused variable 'w6b' [-Wunused-variable]
+o        const double w6b[m6+2]={w6b0, -0.213228522200144E1, 0.426068187079180E-2, 0.143984716797678E1, 0};
+o                     ^
+o6 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp0f26d5186697b641^e25942196697b641^-1987"/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:77:15: warning: unused variable 'w6c' [-Wunused-variable]        const double w6c[m6+2]={w6c0, 0.152886228424922E-2, -0.214403531630539E1, 0.144778256239930E1, 0};                     ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:93:15: warning: unused variable 'w8e' [-Wunused-variable]        const double w8e[m8+2]={w8e0, 0.227738840094906E-1, 0.252778927322839E1, -0.719180053552772E-1,0.536018921307285E-2, -0.20480979588739E1, 0.107990467703699E0, 0.130300165760014E1, 0};                     ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:90:9: warning: unused variable 'w8b' [-Wunused-variable]        double w8b[m8+2]={w8b0, -0.169248587770116E-2,  0.289195744315849E1,  0.378039588360192E-2, -0.289688250328827E1,  0.289105148970595E1, -0.233864815101035E1, 0.148819229202922E1, 0};               ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:92:15: warning: unused variable 'w8d' [-Wunused-variable]        const double w8d[m8+2]={w8d0, 0.102799849391985E0, -0.196061023297549E1, 0.193813913762276E1, 0.158240635368243E0, -0.144485223686048E1, 0.253693336566229E0, 0.914844246229740E0, 0};                     ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:91:15: warning: unused variable 'w8c' [-Wunused-variable]        const double w8c[m8+2]={w8c0, 0.311790812418427E0, -0.155946803821447E1, -0.167896928259640E1, 0.166335809963315E1, 0.136934946416871E1, 0.629030650210433E0, 0};                     ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp:76:15: warning: unused variable 'w6b' [-Wunused-variable]        const double w6b[m6+2]={w6b0, -0.213228522200144E1, 0.426068187079180E-2, 0.143984716797678E1, 0};                     ^6 warnings generated.6(36%IDEClangDiagnosticActivityLogMessage2@21"Unused variable 'w6c'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^76#14#76#14#1841#0#19"Unused Entity Issue--2@21"Unused variable 'w8e'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^92#14#92#14#3596#0#19"Unused Entity Issue--2@21"Unused variable 'w8b'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^89#8#89#8#3059#0#19"Unused Entity Issue--2@21"Unused variable 'w8d'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^91#14#91#14#3412#0#19"Unused Entity Issue--2@21"Unused variable 'w8c'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^90#14#90#14#3249#0#19"Unused Entity Issue--2@21"Unused variable 'w6b'-379020825#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^75#14#75#14#1741#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@107"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase%20Space%20Propagation/symp1d.cpp0000000000000000^3715"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o" symp1d.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Phase Space Propagation-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/opt/local/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.dia" -c "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/symp1d.cpp" -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/symp1d.o"36"F54D93D4-9776-4D2E-95B2-F6A04C885D74-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" normal x86_64
+s379020825.274270
+e379020825.368519
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylibb55046196697b641^ef565e196697b641^---0#0#0#--1451"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" normal x86_64    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/lib -L/opt/local/lib "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Phase Space Propagation.build/Debug/Phase Space Propagation.build/Objects-normal/x86_64/Phase Space Propagation.LinkFileList" -install_name "/usr/local/lib/libPhase Space Propagation.dylib" -mmacosx-version-min=10.8 -llinear_alg_objects -single_module -compatibility_version 1 -current_version 1 -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib"36"EF25F78F-4AA3-4D4B-B8AB-5D0BD86848B3-
+
+CPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylib"
+s379020825.391431
+e379020825.398475
+r1
+xPBXCp
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylibe75264196697b641^5df865196697b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase%20Space%20Propagation.dylib0000000000000000^635"PBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" "/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libPhase Space Propagation.dylib"    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib36"AE1F550E-6CFA-4B96-9F89-DD3D05BF2DEC-
+
+CPBXCp integrator.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+r0
+
+CPBXCp map.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+s378936204.095092
+e378936204.108379
+r1
+xPBXCp
+xmap.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.hf871188c1b96b641^71c71b8c1b96b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h0000000000000000^423"PBXCp map.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/map.h" /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"B2280E20-5FAA-4D40-A7D8-0C5E2119279E-
+
+CPBXCp physical_constants.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/physical_constants.h
+r0
+
+CPBXCp sep_hamiltonian.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+s378936204.121901
+e378936204.148845
+r1
+xPBXCp
+xsep_hamiltonian.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.ha2441f8c1b96b641^b725268c1b96b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h0000000000000000^459"PBXCp sep_hamiltonian.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h    cd "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/Phase Space Propagation/sep_hamiltonian.h" /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"BB5D05F0-B4F6-458F-B7EF-F2F069DCE4FB-
+
+CPBXCp symp1d.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/symp1d.h
+r0
+

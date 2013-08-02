@@ -1,0 +1,98 @@
+Ttracking-gtest
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-gtest.LinkFileList
+c0000000050D0DC0100000000000000B9
+t1355865089
+s185
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/gtest
+c0000000050A2E818000000000017B3AC
+t1352853528
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp
+c0000000050D0DB3F0000000000000117
+t1355864895
+s279
+i<iostream>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+c0000000050D0DA990000000000000104
+t1355864729
+s260
+i"gtest.h"
+i"TCanvas.h"
+i"TApplication.h"
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h
+c000000004DA8A1360000000000014212
+t1302896950
+s82450
+
+N/usr/local/include/TApplication.h
+c000000004EAEF3B90000000000001D31
+t1320088505
+s7473
+
+N/usr/local/include/TCanvas.h
+c000000004EAEF3BA0000000000003086
+t1320088506
+s12422
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd99986811381b641^4c1895811381b641^---0#1#0#--18"Check dependencies36"E6B8D0E0-DC75-4FA8-B789-20B179AF559D-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/main.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377557889.584643
+e377557891.233598
+r0
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:
+oIn file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found
+o#   include <tr1/tuple>  // NOLINT
+o            ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp8ae695811381b641^cdc93b831381b641^-558"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:In file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found#   include <tr1/tuple>  // NOLINT            ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"'tr1/tuple' file not found-377557891#18446744073709551615#0#3(2@104"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:-377557891#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^8#9#8#9#153#0#21"Clang LLVM 1.0 Notice--2@90"In file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:-377557891#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@80"file://localhost/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h0000000000000000^56#9#56#9#2483#0#21"Clang LLVM 1.0 Notice--2@137"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:-377557891#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@127"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h0000000000000000^39#9#39#9#1939#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h0000000000000000^498#12#498#12#19911#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^3653"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o"36"488F3CAD-FE03-4A57-B941-9EC76563418A-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest" normal x86_64
+r0
+

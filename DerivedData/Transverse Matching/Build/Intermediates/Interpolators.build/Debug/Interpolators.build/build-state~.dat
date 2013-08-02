@@ -1,0 +1,153 @@
+TInterpolators
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" normal x86_64
+cPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib
+cPBXCp interpolate_base.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+cPBXCp bspline_gsl.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/bspline_gsl.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/Interpolators.LinkFileList
+c0000000050E5E40A000000000000017B
+t1357243402
+s379
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../../../opt/local/lib/libginac.2.dylib
+c000000005089F1900000000000376BAC
+t1351217552
+s3632044
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib/libgsl.0.dylib
+c000000004FE8F97F00000000002902F0
+t1340668287
+s2687728
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib/libgslcblas.0.dylib
+c000000004FE8F9400000000000042564
+t1340668224
+s271716
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib
+c0000000050E5DDD7000000000001183C
+t1357241815
+s71740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking/gtest.framework/gtest
+c0000000050A2E818000000000017B3AC
+t1352853528
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+c0000000050E02C6A0000000000000E4A
+t1356868714
+s3658
+i"interpolate_base.h"
+i"bspline_gsl.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.h
+c0000000050E01ED300000000000009FE
+t1356865235
+s2558
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp
+c0000000050E02CDC000000000000034D
+t1356868828
+s845
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.h
+c0000000050E0F4A00000000000000598
+t1356919968
+s1432
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/bspline_gsl.h
+t1356865236
+s2558
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+t1356920017
+s1432
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib
+t1356920228
+s26496
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb324688a1b96b641^66f6898a1b96b641^---0#1#0#--18"Check dependencies36"ADD9218A-644B-492F-9FF3-84BAB5E79315-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s378936203.317511
+e378936203.722483
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp4563518b1b96b641^b1fdb88b1b96b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp0000000000000000^2958"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o" bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Interpolators.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/opt/local/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/bspline_gsl.o"36"95E78E35-F07C-4566-BD3F-8824EBE31551-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s378936203.362845
+e378936203.667785
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cppa8ff5c8b1b96b641^c502ab8b1b96b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp0000000000000000^2988"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o" interpolate_base.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Interpolators.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/opt/local/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/interpolate_base.o"36"9038F651-7382-4D17-A046-EE773CF10978-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" normal x86_64
+s378936203.729305
+e378936204.172215
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylibafcdba8b1b96b641^e4152c8c1b96b641^---0#0#0#--1622"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib -L/opt/local/lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../DerivedData/Transverse Matching/Build/Products/Debug" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/Interpolators.build/Objects-normal/x86_64/Interpolators.LinkFileList" -install_name /usr/local/lib/libInterpolators.dylib -mmacosx-version-min=10.8 -llinear_alg_objects -lginac.2 -lgslcblas.0 -lgsl.0 -framework gtest -single_module -compatibility_version 1 -current_version 1 -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib"36"1DD9DBA9-121B-4E7D-BB0A-C7382060D50F-
+
+CPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib
+s378936204.179516
+e378936204.183461
+r1
+xPBXCp
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylibb8062e8c1b96b641^1af72e8c1b96b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib0000000000000000^591"PBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libInterpolators.dylib    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib36"BEBAA1F4-B2CA-4081-B756-96890AC5F00D-
+
+CPBXCp bspline_gsl.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/bspline_gsl.h
+r0
+
+CPBXCp interpolate_base.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+r0
+

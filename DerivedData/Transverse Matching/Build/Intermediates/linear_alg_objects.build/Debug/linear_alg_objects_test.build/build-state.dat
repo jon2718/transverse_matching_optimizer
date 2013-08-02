@@ -1,0 +1,517 @@
+Tlinear_alg_objects_test
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o
+t1356112400
+s158148
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/linear_alg_objects_test.LinkFileList
+c00000000505CE6920000000000000354
+t1348265618
+s852
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o
+t1356112859
+s219568
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o
+t1356112402
+s193204
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o
+t1356112402
+s194512
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib
+c0000000050D4A153000000000001183C
+t1356112211
+s71740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test
+t1356112859
+s115648
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-death-test.h
+c000000004F9438DE0000000000002B65
+t1335113950
+s11109
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-message.h
+c000000004F9438DE00000000000020CB
+t1335113950
+s8395
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-param-test.h
+c000000004F9438DE0000000000012859
+t1335113950
+s75865
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-printers.h
+c000000004F9438DE0000000000007639
+t1335113950
+s30265
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-test-part.h
+c000000004F9438DE0000000000001945
+t1335113950
+s6469
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-typed-test.h
+c000000004F9438DE0000000000002802
+t1335113950
+s10242
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest.h
+c000000004F9438DE0000000000014212
+t1335113950
+s82450
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest_pred_impl.h
+c000000004F9438DE0000000000003B24
+t1335113950
+s15140
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest_prod.h
+c000000004F9438DE0000000000000914
+t1335113950
+s2324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-death-test-internal.h
+c000000004F9438DE0000000000003265
+t1335113950
+s12901
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-filepath.h
+c000000004F9438DE00000000000025E1
+t1335113950
+s9697
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-internal.h
+c000000004F9438DE000000000000B8DD
+t1335113950
+s47325
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-linked_ptr.h
+c000000004F9438DE0000000000001F7F
+t1335113950
+s8063
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-param-util-generated.h
+c000000004F9438DE0000000000029508
+t1335113950
+s169224
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-param-util.h
+c000000004F9438DE0000000000005EAA
+t1335113950
+s24234
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-port.h
+c000000004F9438DE000000000000F323
+t1335113950
+s62243
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-string.h
+c000000004F9438DE000000000000351B
+t1335113950
+s13595
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-type-util.h
+c000000004F9438DE000000000002D53C
+t1335113950
+s185660
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/gtest
+c000000004F9438DE000000000017B3AC
+t1335113950
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/libgtest_main.a
+c000000004F9438D3000000000000DD80
+t1335113939
+s56704
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen.h
+c000000005036A4CE00000000000002E3
+t1345758414
+s739
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp
+c000000005036A44D00000000000002BB
+t1345758285
+s699
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix.h
+c0000000050D4A08D000000000000073C
+t1356112013
+s1852
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp
+c0000000050D4A3F10000000000000731
+t1356112881
+s1841
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrixc.h
+c00000000501D07630000000000000583
+t1344079715
+s1411
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp
+c000000004FF24DDE00000000000003A3
+t1341279710
+s931
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector.h
+c0000000050D49F780000000000000734
+t1356111736
+s1844
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp
+c0000000050A2E2BD0000000000000341
+t1352852157
+s833
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9e448473db84b641^0e888473db84b641^---0#1#0#--18"Check dependencies36"7F6583B8-85D0-4BF7-AF81-7056A1F62E01-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377805199.649512
+e377805200.930006
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp:22:9: warning: unused variable 'third' [-Wunused-variable]
+o        double third[16]={1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1};
+o               ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp596da68fd984b641^3c17ee90d984b641^-248"/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp:22:9: warning: unused variable 'third' [-Wunused-variable]        double third[16]={1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1};               ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'third'-377805200#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp0000000000000000^21#8#21#8#452#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@106"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp0000000000000000^3834"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o" eigen_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/eigen_unittest.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/eigen_unittest.o"36"FA943A11-20F0-4A84-B84D-0E973335A62F-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377805683.521251
+e377805684.795368
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp938f8573db84b641^639ccb74db84b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp0000000000000000^3906"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o" matrix_operations_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/matrix_operations_unittest.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/matrix_operations_unittest.o"36"A122E5B6-7A1C-4415-A0B7-7EBE619DF70A-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377805200.931405
+e377805202.274985
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cppc58eee90d984b641^f5644692d984b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp0000000000000000^3894"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o" setting_getting_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/setting_getting_unittest.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/setting_getting_unittest.o"36"52498219-7DA5-4E93-8216-FA175CFAD350-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377805200.999957
+e377805202.171980
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp261e0091d984b641^08062c92d984b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp0000000000000000^3894"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o" vector_addition_unittest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/linear_alg_objects_test-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/vector_addition_unittest.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/vector_addition_unittest.o"36"4BCFBF06-41D0-4F76-BD3F-87E1D47C013F-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test" normal x86_64
+s377805684.802135
+e377805684.834512
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test486ecd74db84b641^2fa2d574db84b641^---0#0#0#--1491"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/linear_alg_objects/../../../../../developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/linear_alg_objects.build/Debug/linear_alg_objects_test.build/Objects-normal/x86_64/linear_alg_objects_test.LinkFileList" -mmacosx-version-min=10.7 -llinear_alg_objects -framework gtest -lgtest_main -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/linear_alg_objects_test"36"45FE1056-F10D-41BF-B495-6C02F3A08863-
+

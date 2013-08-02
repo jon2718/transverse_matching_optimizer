@@ -1,0 +1,815 @@
+Tinterpolators-gtest
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/Library/Frameworks/gtest.framework/gtest
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o
+t1356744210
+s306328
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o
+t1356112413
+s45500
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/interpolators-gtest.LinkFileList
+c0000000050A2E6E60000000000000183
+t1352853222
+s387
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.o
+t1352853123
+s27412
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest
+t1356744210
+s49988
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libInterpolators.dylib
+c0000000050DC87560000000000005208
+t1356629846
+s21000
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../Documents/BNL_Research/Developer/root_development/Root Plotting Extensions/DerivedData/Root Plotting Extensions/Build/Products/Debug/libRoot Plotting Extensions.dylib
+c00000000505C8914000000000000CEB8
+t1348241684
+s52920
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib/libgsl.0.dylib
+c000000004FE8F97F00000000002902F0
+t1340668287
+s2687728
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib/libgslcblas.0.dylib
+c000000004FE8F9400000000000042564
+t1340668224
+s271716
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib
+c0000000050DC6D61000000000001183C
+t1356623201
+s71740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking/gtest.framework/gtest
+c0000000050A2E818000000000017B3AC
+t1352853528
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib/gtest.framework/gtest
+c0000000050A2E818000000000017B3AC
+t1352853528
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib/libgtest_main.a
+c0000000050A2E82D000000000000DD80
+t1352853549
+s56704
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp
+c0000000050DE460E000000000000058C
+t1356744206
+s1420
+i"gtest.h"
+i"bspline_gsl.h"
+i"TInterpPlot2D.h"
+i"TCanvas.h"
+i"TApplication.h"
+i"vector.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+c0000000050C738E10000000000000DAD
+t1355233505
+s3501
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.h
+c0000000050C7384400000000000009B5
+t1355233348
+s2485
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolate_base.h
+c0000000050C72E490000000000000510
+t1355230793
+s1296
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp
+c00000000505A6249000000000000011B
+t1348100681
+s283
+i<iostream>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h
+c0000000050C9F90600000000000002DF
+t1355413766
+s735
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050C72F270000000000000510
+t1355231015
+s1296
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_bspline.h
+c000000004FE8F90E0000000000000DF9
+t1340668174
+s3577
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_machine.h
+c000000004FE8F90F0000000000000EDD
+t1340668175
+s3805
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_math.h
+c000000004FE8F90F00000000000010F9
+t1340668175
+s4345
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_minmax.h
+c000000004FE8F90F0000000000000A48
+t1340668175
+s2632
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_nan.h
+c000000004FE8F90F0000000000000537
+t1340668175
+s1335
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_pow_int.h
+c000000004FE8F90F00000000000008FD
+t1340668175
+s2301
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_precision.h
+c000000004FE8F90F00000000000006F4
+t1340668175
+s1780
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_sys.h
+c000000004FE8F90900000000000007A2
+t1340668169
+s1954
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h
+c000000004DA8A1360000000000014212
+t1302896950
+s82450
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-death-test.h
+c000000004F9438DE0000000000002B65
+t1335113950
+s11109
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-message.h
+c000000004F9438DE00000000000020CB
+t1335113950
+s8395
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-param-test.h
+c000000004F9438DE0000000000012859
+t1335113950
+s75865
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-printers.h
+c000000004F9438DE0000000000007639
+t1335113950
+s30265
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-test-part.h
+c000000004F9438DE0000000000001945
+t1335113950
+s6469
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest-typed-test.h
+c000000004F9438DE0000000000002802
+t1335113950
+s10242
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest_pred_impl.h
+c000000004F9438DE0000000000003B24
+t1335113950
+s15140
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/gtest_prod.h
+c000000004F9438DE0000000000000914
+t1335113950
+s2324
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-death-test-internal.h
+c000000004F9438DE0000000000003265
+t1335113950
+s12901
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-filepath.h
+c000000004F9438DE00000000000025E1
+t1335113950
+s9697
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-internal.h
+c000000004F9438DE000000000000B8DD
+t1335113950
+s47325
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-linked_ptr.h
+c000000004F9438DE0000000000001F7F
+t1335113950
+s8063
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-param-util-generated.h
+c000000004F9438DE0000000000029508
+t1335113950
+s169224
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-param-util.h
+c000000004F9438DE0000000000005EAA
+t1335113950
+s24234
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-port.h
+c000000004F9438DE000000000000F323
+t1335113950
+s62243
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-string.h
+c000000004F9438DE000000000000351B
+t1335113950
+s13595
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug/gtest.framework/Headers/internal/gtest-type-util.h
+c000000004F9438DE000000000002D53C
+t1335113950
+s185660
+
+N/usr/local/include/Buttons.h
+c000000004EAEF3B90000000000000743
+t1320088505
+s1859
+
+N/usr/local/include/DllImport.h
+c000000004EAEF3B900000000000003E2
+t1320088505
+s994
+
+N/usr/local/include/GuiTypes.h
+c000000004EAEF3B90000000000004220
+t1320088505
+s16928
+
+N/usr/local/include/Math/ParamFunctor.h
+c000000004EAEF3BA0000000000001CBE
+t1320088506
+s7358
+
+N/usr/local/include/RConfig.h
+c000000004EAEF3B90000000000003F98
+t1320088505
+s16280
+
+N/usr/local/include/RVersion.h
+c000000004EAEF3B90000000000000260
+t1320088505
+s608
+
+N/usr/local/include/Riosfwd.h
+c000000004EAEF3B90000000000000674
+t1320088505
+s1652
+
+N/usr/local/include/Rtypeinfo.h
+c000000004EAEF3B900000000000003F5
+t1320088505
+s1013
+
+N/usr/local/include/Rtypes.h
+c000000004EAEF3B9000000000000459C
+t1320088505
+s17820
+
+N/usr/local/include/TApplication.h
+c000000004EAEF3B90000000000001D31
+t1320088505
+s7473
+
+N/usr/local/include/TApplicationImp.h
+c000000004EAEF3B9000000000000092C
+t1320088505
+s2348
+
+N/usr/local/include/TAttCanvas.h
+c000000004EAEF3BA0000000000000ABF
+t1320088506
+s2751
+
+N/usr/local/include/TAttFill.h
+c000000004EAEF3B9000000000000090D
+t1320088505
+s2317
+
+N/usr/local/include/TAttLine.h
+c000000004EAEF3B900000000000009E7
+t1320088505
+s2535
+
+N/usr/local/include/TAttMarker.h
+c000000004EAEF3B90000000000000B59
+t1320088505
+s2905
+
+N/usr/local/include/TAttPad.h
+c000000004EAEF3B90000000000001316
+t1320088505
+s4886
+
+N/usr/local/include/TAttText.h
+c000000004EAEF3B90000000000000B2D
+t1320088505
+s2861
+
+N/usr/local/include/TBits.h
+c000000004EAEF3B9000000000000224A
+t1320088505
+s8778
+
+N/usr/local/include/TBuffer.h
+c000000004EAEF3B90000000000005453
+t1320088505
+s21587
+
+N/usr/local/include/TCanvas.h
+c000000004EAEF3BA0000000000003086
+t1320088506
+s12422
+
+N/usr/local/include/TCanvasImp.h
+c000000004EAEF3B90000000000001092
+t1320088505
+s4242
+
+N/usr/local/include/TCollection.h
+c000000004EAEF3B900000000000020D7
+t1320088505
+s8407
+
+N/usr/local/include/TF1.h
+c000000004EAEF3BA00000000000041FA
+t1320088506
+s16890
+
+N/usr/local/include/TFormula.h
+c000000004EAEF3BA0000000000002D73
+t1320088506
+s11635
+
+N/usr/local/include/TGenericClassInfo.h
+c000000004EAEF3B90000000000001C13
+t1320088505
+s7187
+
+N/usr/local/include/TIterator.h
+c000000004EAEF3B900000000000007A2
+t1320088505
+s1954
+
+N/usr/local/include/TMathBase.h
+c000000004EAEF3B90000000000001CEC
+t1320088505
+s7404
+
+N/usr/local/include/TNamed.h
+c000000004EAEF3B90000000000000A52
+t1320088505
+s2642
+
+N/usr/local/include/TObjArray.h
+c000000004EAEF3B90000000000001BE1
+t1320088505
+s7137
+
+N/usr/local/include/TObject.h
+c000000004EAEF3B90000000000002730
+t1320088505
+s10032
+
+N/usr/local/include/TPad.h
+c000000004EAEF3BA0000000000006733
+t1320088506
+s26419
+
+N/usr/local/include/TQObject.h
+c000000004EAEF3B900000000000025F2
+t1320088505
+s9714
+
+N/usr/local/include/TSchemaHelper.h
+c000000004EAEF3B900000000000004B6
+t1320088505
+s1206
+
+N/usr/local/include/TSeqCollection.h
+c000000004EAEF3B90000000000000CD2
+t1320088505
+s3282
+
+N/usr/local/include/TStorage.h
+c000000004EAEF3B90000000000001003
+t1320088505
+s4099
+
+N/usr/local/include/TString.h
+c000000004EAEF3B90000000000007826
+t1320088505
+s30758
+
+N/usr/local/include/TVersionCheck.h
+c000000004EAEF3B900000000000005FC
+t1320088505
+s1532
+
+N/usr/local/include/TVirtualPad.h
+c000000004EAEF3B90000000000003217
+t1320088505
+s12823
+
+N/usr/local/include/TVirtualX.h
+c000000004EAEF3B90000000000004B73
+t1320088505
+s19315
+
+N/usr/local/include/snprintf.h
+c000000004EAEF3B900000000000003EF
+t1320088505
+s1007
+
+N/usr/local/include/strlcpy.h
+c000000004EAEF3B90000000000000352
+t1320088505
+s850
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies46985258898eb641^255d5358898eb641^---0#1#0#--18"Check dependencies36"043FCE31-A384-4349-B215-6106A9D7B38F-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s378437008.544661
+e378437010.350934
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:
+oIn file included from /usr/local/include/TF1.h:27:
+oIn file included from /usr/local/include/TFormula.h:27:
+oIn file included from /usr/local/include/TNamed.h:29:
+o/usr/local/include/TString.h:472:40: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(Length(), 0, cs, cs ? strlen(cs) : 0); }
+o                                     ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:484:26: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Append(cs, cs ? strlen(cs) : 0); }
+o                       ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:538:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : (Ssiz_t)0, (Ssiz_t)0, cmp) == 0; }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:547:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : 0, (Ssiz_t)0, cmp) != kNPOS; }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:562:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Index(s, s ? strlen(s) : 0, i, cmp); }
+o                    ~ ^~~~~~~~~
+o/usr/local/include/TString.h:572:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(pos, 0, cs, cs ? strlen(cs) : 0); }
+o                                ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:584:33: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(0, 0, cs, cs ? strlen(cs) : 0); }
+o                              ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:605:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return Replace(pos, n, cs, cs ? strlen(cs) : 0); }
+o                                ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:618:54: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1.Data(), s1.Length(), s2, s2 ? strlen(s2) : 0); }
+o                                                   ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:621:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2.Data(), s2.Length()); }
+o                           ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:624:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }
+o                           ~ ^~~~~~~~~~
+o/usr/local/include/TString.h:624:55: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]
+o{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }
+o                                                    ~ ^~~~~~~~~~
+o12 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp718d8b907d8eb641^b81d5a927d8eb641^-3656"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:In file included from /usr/local/include/TF1.h:27:In file included from /usr/local/include/TFormula.h:27:In file included from /usr/local/include/TNamed.h:29:/usr/local/include/TString.h:472:40: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(Length(), 0, cs, cs ? strlen(cs) : 0); }                                     ~ ^~~~~~~~~~/usr/local/include/TString.h:484:26: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Append(cs, cs ? strlen(cs) : 0); }                       ~ ^~~~~~~~~~/usr/local/include/TString.h:538:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : (Ssiz_t)0, (Ssiz_t)0, cmp) == 0; }                    ~ ^~~~~~~~~/usr/local/include/TString.h:547:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : 0, (Ssiz_t)0, cmp) != kNPOS; }                    ~ ^~~~~~~~~/usr/local/include/TString.h:562:23: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Index(s, s ? strlen(s) : 0, i, cmp); }                    ~ ^~~~~~~~~/usr/local/include/TString.h:572:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(pos, 0, cs, cs ? strlen(cs) : 0); }                                ~ ^~~~~~~~~~/usr/local/include/TString.h:584:33: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(0, 0, cs, cs ? strlen(cs) : 0); }                              ~ ^~~~~~~~~~/usr/local/include/TString.h:605:35: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return Replace(pos, n, cs, cs ? strlen(cs) : 0); }                                ~ ^~~~~~~~~~/usr/local/include/TString.h:618:54: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1.Data(), s1.Length(), s2, s2 ? strlen(s2) : 0); }                                                   ~ ^~~~~~~~~~/usr/local/include/TString.h:621:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2.Data(), s2.Length()); }                           ~ ^~~~~~~~~~/usr/local/include/TString.h:624:30: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }                           ~ ^~~~~~~~~~/usr/local/include/TString.h:624:55: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int') [-Wshorten-64-to-32]{ return ReplaceAll(s1, s1 ? strlen(s1) : 0, s2, s2 ? strlen(s2) : 0); }                                                    ~ ^~~~~~~~~~12 warnings generated.12(36%IDEClangDiagnosticActivityLogMessage2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#39#471#39#21314#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#39#471#49#21314#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#37#471#38#21312#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#25#483#25#21747#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#25#483#35#21747#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#23#483#24#21745#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#22#537#22#23244#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#22#537#31#23244#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#20#537#21#23242#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#22#546#22#23675#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#22#546#31#23675#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#20#546#21#23673#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#22#561#22#24275#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#22#561#31#24275#8#3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#20#561#21#24273#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#34#571#34#24700#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#34#571#44#24700#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#32#571#33#24698#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#32#583#32#25158#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#32#583#42#25158#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#30#583#31#25156#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#34#604#34#25874#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#34#604#44#25874#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#32#604#33#25872#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#53#617#53#26475#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#53#617#63#26475#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#51#617#52#26473#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#29#620#29#26595#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#29#620#39#26595#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#27#620#28#26593#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#29#623#29#26735#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#29#623#39#26735#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#27#623#28#26733#0#-2@99"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'Ssiz_t' (aka 'int')-378437010#18446744073709551615#0#5(2@109"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp:11:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^10#9#10#9#200#0#21"Clang LLVM 1.0 Notice--2@102"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/include/TInterpPlot2D.h:15:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Root%20Plotting%20Extensions/TInterpPlot2D.h0000000000000000^14#9#14#9#339#0#21"Clang LLVM 1.0 Notice--2@50"In file included from /usr/local/include/TF1.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@40"file://localhost/usr/local/include/TF1.h0000000000000000^26#9#26#9#1261#0#21"Clang LLVM 1.0 Notice--2@55"In file included from /usr/local/include/TFormula.h:27:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@45"file://localhost/usr/local/include/TFormula.h0000000000000000^26#9#26#9#1282#0#21"Clang LLVM 1.0 Notice--2@53"In file included from /usr/local/include/TNamed.h:29:-378437010#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#9#28#9#1272#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#54#623#54#26760#0#14"Semantic Issue2(3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#54#623#64#26760#9#3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#52#623#53#26758#0#-0#0#0#-19%DVTDocumentLocation4@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp0000000000000000^3237"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o" bspline-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/interpolators-gtest.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline-test.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline-test.o"36"B27777FE-1E9E-4CC8-B203-1422F8CEF561-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377805212.644009
+e377805213.057932
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp7afea49cd984b641^b1e00e9dd984b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp0000000000000000^3231"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o" bspline_gsl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/interpolators-gtest.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/bspline_gsl.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/bspline_gsl.o"36"66C739F3-A090-4637-B181-BF1653C4C05A-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s374545923.079568
+e374545923.524444
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp077e14031e53b641^184286031e53b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp0000000000000000^3071"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.o" interpolators-gtest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/interpolators-gtest.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include -I/usr/local/include -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/interpolators-gtest/main.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/main.o"36"E73A954A-63C3-4E70-A9F2-16FF36DADCAC-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest" normal x86_64
+s378437010.358129
+e378437010.466056
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtestd8835d927d8eb641^0e4f77927d8eb641^---0#0#0#--2419"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../developer/num_libraries/gsl-1.15-install/lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../../../../../Documents/BNL_Research/Developer/root_development/Root Plotting Extensions/DerivedData/Root Plotting Extensions/Build/Products/Debug" "-L/Users/Jon/Documents/BNL_Research/Developer/root_development/Root Plotting Extensions/DerivedData/Root Plotting Extensions/Build/Products/Debug" "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/developer/testing/gtest-1-1.6.0/xcode/DerivedData/gtest/Build/Products/Debug -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Interpolators/../Tracking -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Interpolators.build/Debug/interpolators-gtest.build/Objects-normal/x86_64/interpolators-gtest.LinkFileList" -mmacosx-version-min=10.8 -L/usr/local/lib -lGpad -lHist -lGraf -lGraf3d -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lRIO -lNet -lThread -lCore -lCint -lpthread -Wl,-rpath,/usr/local/lib -lm -ldl -lgtest_main -lInterpolators -lgslcblas.0 "-lRoot Plotting Extensions" -llinear_alg_objects -lgsl.0 -framework gtest -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/interpolators-gtest"36"3303B2C6-1F2A-419E-85ED-560036B122DB-
+

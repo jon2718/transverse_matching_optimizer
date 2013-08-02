@@ -1,0 +1,978 @@
+Ttracking-gtest
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/assert.h
+c0000000050B2C3F20000000000000F6E
+t1353892850
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/ctype.h
+c0000000050B2C3F60000000000002C18
+t1353892854
+s11288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/cxxabi.h
+c0000000050B2C3F60000000000001541
+t1353892854
+s5441
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/errno.h
+c0000000050B2C3F700000000000003EB
+t1353892855
+s1003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/pthread.h
+c0000000050B2C3F80000000000003CF0
+t1353892856
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/regex.h
+c0000000050B2C3F800000000000026C9
+t1353892856
+s9929
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c0000000050B2C3F80000000000004523
+t1353892856
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c0000000050B2C3F80000000000003089
+t1353892856
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/string.h
+c0000000050B2C3F80000000000001A3A
+t1353892856
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/strings.h
+c0000000050B2C3F80000000000000F73
+t1353892856
+s3955
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/_types.h
+c0000000050B2C3F80000000000001845
+t1353892856
+s6213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/stat.h
+c0000000050B2C3F80000000000004B2F
+t1353892856
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/types.h
+c0000000050B2C3F80000000000002795
+t1353892856
+s10133
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/wait.h
+c0000000050B2C3F8000000000000273C
+t1353892856
+s10044
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/time.h
+c0000000050B2C3F8000000000000178E
+t1353892856
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/unistd.h
+c0000000050B2C3F80000000000006762
+t1353892856
+s26466
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c0000000050B2C3FC0000000000003197
+t1353892860
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-gtest.LinkFileList
+c0000000050D0DC0100000000000000B9
+t1355865089
+s185
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o
+t1356181409
+s240260
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libTracking.dylib
+c0000000050D5AF9F0000000000008CFC
+t1356181407
+s36092
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest
+t1356181410
+s37116
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../DerivedData/Transverse Matching/Build/Products/Debug/liblinear_alg_objects.dylib
+c0000000050D4A77B000000000001183C
+t1356113787
+s71740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib/libgtest_main.a
+c0000000050A2E82D000000000000DD80
+t1352853549
+s56704
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-death-test.h
+c0000000050A2E8180000000000002B65
+t1352853528
+s11109
+i"gtest/internal/gtest-death-test-internal.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-message.h
+c0000000050A2E81800000000000020CB
+t1352853528
+s8395
+i<limits>
+i"gtest/internal/gtest-string.h"
+i"gtest/internal/gtest-internal.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-param-test.h
+c0000000050A2E8180000000000012859
+t1352853528
+s75865
+i"gtest/internal/gtest-port.h"
+i<utility>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-param-util.h"
+i"gtest/internal/gtest-param-util-generated.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-printers.h
+c0000000050A2E8180000000000007639
+t1352853528
+s30265
+i<ostream>
+i<sstream>
+i<string>
+i<utility>
+i<vector>
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-internal.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-test-part.h
+c0000000050A2E8180000000000001945
+t1352853528
+s6469
+i<iosfwd>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-string.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest-typed-test.h
+c0000000050A2E8180000000000002802
+t1352853528
+s10242
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-type-util.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest_pred_impl.h
+c0000000050A2E8180000000000003B24
+t1352853528
+s15140
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/gtest_prod.h
+c0000000050A2E8180000000000000914
+t1352853528
+s2324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-death-test-internal.h
+c0000000050A2E8180000000000003265
+t1352853528
+s12901
+i"gtest/internal/gtest-internal.h"
+i<stdio.h>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-filepath.h
+c0000000050A2E81800000000000025E1
+t1352853528
+s9697
+i"gtest/internal/gtest-string.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h
+c0000000050A2E818000000000000B8DD
+t1352853528
+s47325
+i"gtest/internal/gtest-port.h"
+i<stdlib.h>
+i<sys/types.h>
+i<sys/wait.h>
+i<unistd.h>
+i<ctype.h>
+i<string.h>
+i<iomanip>
+i<limits>
+i<set>
+i"gtest/internal/gtest-string.h"
+i"gtest/internal/gtest-filepath.h"
+i"gtest/internal/gtest-type-util.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-linked_ptr.h
+c0000000050A2E8180000000000001F7F
+t1352853528
+s8063
+i<stdlib.h>
+i<assert.h>
+i"gtest/internal/gtest-port.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-param-util-generated.h
+c0000000050A2E8180000000000029508
+t1352853528
+s169224
+i"gtest/internal/gtest-param-util.h"
+i"gtest/internal/gtest-port.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-param-util.h
+c0000000050A2E8180000000000005EAA
+t1352853528
+s24234
+i<iterator>
+i<utility>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-linked_ptr.h"
+i"gtest/internal/gtest-port.h"
+i"gtest/gtest-printers.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h
+c0000000050A2E818000000000000F323
+t1352853528
+s62243
+i<ctype.h>
+i<stddef.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<iostream>
+i<sstream>
+i<string>
+i<unistd.h>
+i<strings.h>
+i<direct.h>
+i<io.h>
+i<regex.h>
+i<typeinfo>
+i<pthread.h>
+i<time.h>
+i"gtest/internal/gtest-tuple.h"
+i<tuple>
+i<tr1/tuple>
+i<tr1/tuple>
+i<tuple>
+i<vector>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-string.h
+c0000000050A2E818000000000000351B
+t1352853528
+s13595
+i<mem.h>
+i<string.h>
+i"gtest/internal/gtest-port.h"
+i<string>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-tuple.h
+c0000000050A2E8180000000000006DDB
+t1352853528
+s28123
+i<utility>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-type-util.h
+c0000000050A2E818000000000002D53C
+t1352853528
+s185660
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-string.h"
+i<cxxabi.h>
+i<acxx_demangle.h>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/gtest
+c0000000050A2E818000000000017B3AC
+t1352853528
+s1553324
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h
+c0000000050D5AD56000000000000035F
+t1356180822
+s863
+i<iostream>
+i"matrix.h"
+i"sep_hamiltonian.h"
+i"integrator.h"
+i"TGraph.h"
+i"TCanvas.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp
+c0000000050D0DB3F0000000000000117
+t1355864895
+s279
+i<iostream>
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+c0000000050D4A9E800000000000002B9
+t1356114408
+s697
+i"gtest.h"
+i"particle_collection.h"
+i"TCanvas.h"
+i"TApplication.h"
+i"matrix.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+c0000000050A2E27900000000000002B4
+t1352852089
+s692
+i<iostream>
+i"sep_hamiltonian.h"
+i"interpolate_base.h"
+i"vector.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050C72F270000000000000510
+t1355231015
+s1296
+i"vector.h"
+i"gsl/gsl_vector.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/matrix.h
+c0000000050D4A09D000000000000073C
+t1356112029
+s1852
+i"vector.h"
+i"gsl/gsl_vector.h"
+i"gsl/gsl_matrix.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+c0000000050C60BF20000000000000C72
+t1355156466
+s3186
+i<iostream>
+i"interpolate_base.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+i<iostream>
+i"gsl/gsl_vector.h"
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+i<stdlib.h>
+i<gsl/gsl_errno.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+i<stdlib.h>
+i<gsl/gsl_types.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+i<stdio.h>
+i<errno.h>
+i<gsl/gsl_types.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+i<gsl/gsl_matrix_complex_long_double.h>
+i<gsl/gsl_matrix_complex_double.h>
+i<gsl/gsl_matrix_complex_float.h>
+i<gsl/gsl_matrix_long_double.h>
+i<gsl/gsl_matrix_double.h>
+i<gsl/gsl_matrix_float.h>
+i<gsl/gsl_matrix_ulong.h>
+i<gsl/gsl_matrix_long.h>
+i<gsl/gsl_matrix_uint.h>
+i<gsl/gsl_matrix_int.h>
+i<gsl/gsl_matrix_ushort.h>
+i<gsl/gsl_matrix_short.h>
+i<gsl/gsl_matrix_uchar.h>
+i<gsl/gsl_matrix_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_complex_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_int.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_short.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_uchar.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_uint.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_ulong.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_ushort.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+i<gsl/gsl_vector_complex_long_double.h>
+i<gsl/gsl_vector_complex_double.h>
+i<gsl/gsl_vector_complex_float.h>
+i<gsl/gsl_vector_long_double.h>
+i<gsl/gsl_vector_double.h>
+i<gsl/gsl_vector_float.h>
+i<gsl/gsl_vector_ulong.h>
+i<gsl/gsl_vector_long.h>
+i<gsl/gsl_vector_uint.h>
+i<gsl/gsl_vector_int.h>
+i<gsl/gsl_vector_ushort.h>
+i<gsl/gsl_vector_short.h>
+i<gsl/gsl_vector_uchar.h>
+i<gsl/gsl_vector_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_char.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_double.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_float.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_complex.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_vector_long_double.h>
+i<gsl/gsl_vector_complex.h>
+i<gsl/gsl_block_complex_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_float.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_int.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_long.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_long_double.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_short.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_uchar.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_uint.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_ulong.h>
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+i<stdlib.h>
+i<gsl/gsl_types.h>
+i<gsl/gsl_errno.h>
+i<gsl/gsl_inline.h>
+i<gsl/gsl_check_range.h>
+i<gsl/gsl_block_ushort.h>
+
+N/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h
+c000000004DA8A1360000000000014212
+t1302896950
+s82450
+i<limits>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-string.h"
+i"gtest/gtest-death-test.h"
+i"gtest/gtest-message.h"
+i"gtest/gtest-param-test.h"
+i"gtest/gtest-printers.h"
+i"gtest/gtest_prod.h"
+i"gtest/gtest-test-part.h"
+i"gtest/gtest-typed-test.h"
+i"gtest/gtest_pred_impl.h"
+
+N/usr/local/include/TApplication.h
+c000000004EAEF3B90000000000001D31
+t1320088505
+s7473
+
+N/usr/local/include/TCanvas.h
+c000000004EAEF3BA0000000000003086
+t1320088506
+s12422
+
+N/usr/local/include/TGraph.h
+c000000004EAEF3BA00000000000025B0
+t1320088506
+s9648
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies71aaed390286b641^8467f6390286b641^---0#1#0#--18"Check dependencies36"53B304E8-1D49-4E66-9FE2-838AC7774396-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/main.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-gtest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s377558536.059121
+e377558536.954523
+r0
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:
+oIn file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:
+oIn file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found
+o#   include <tr1/tuple>  // NOLINT
+o            ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp139b0f081681b641^7958f4081681b641^-558"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:In file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found#   include <tr1/tuple>  // NOLINT            ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"'tr1/tuple' file not found-377558536#18446744073709551615#0#3(2@104"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:9:-377558536#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^8#9#8#9#153#0#21"Clang LLVM 1.0 Notice--2@90"In file included from /Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h:57:-377558536#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@80"file://localhost/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest/gtest.h0000000000000000^56#9#56#9#2483#0#21"Clang LLVM 1.0 Notice--2@137"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h:40:-377558536#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@127"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-internal.h0000000000000000^39#9#39#9#1939#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/gtest.framework/Headers/internal/gtest-port.h0000000000000000^498#12#498#12#19911#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^2996"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/usr/local/include -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o"36"73CDCAB4-E8CD-4C13-A713-252CA4EB3A90-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s377874207.436091
+e377874210.004442
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from /usr/local/include/TNamed.h:29,
+o                 from /usr/local/include/TGraph.h:25,
+o                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h:16,
+o                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:10:
+o/usr/local/include/TString.h: In member function 'TString& TString::Append(const char*)':
+o/usr/local/include/TString.h:472: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::operator+=(const char*)':
+o/usr/local/include/TString.h:484: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Bool_t TString::BeginsWith(const char*, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:538: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Bool_t TString::Contains(const char*, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:547: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'Ssiz_t TString::Index(const char*, Ssiz_t, TString::ECaseCompare) const':
+o/usr/local/include/TString.h:562: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Insert(Ssiz_t, const char*)':
+o/usr/local/include/TString.h:572: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Prepend(const char*)':
+o/usr/local/include/TString.h:584: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::Replace(Ssiz_t, Ssiz_t, const char*)':
+o/usr/local/include/TString.h:605: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const TString&, const char*)':
+o/usr/local/include/TString.h:618: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const TString&)':
+o/usr/local/include/TString.h:621: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const char*)':
+o/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp: In member function 'virtual void tracking_evaluate_Test::TestBody()':
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:28: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:28: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cppf1bd6f1fe785b641^21220122e785b641^-3278"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from /usr/local/include/TNamed.h:29,                 from /usr/local/include/TGraph.h:25,                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h:16,                 from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:10:/usr/local/include/TString.h: In member function 'TString& TString::Append(const char*)':/usr/local/include/TString.h:472: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::operator+=(const char*)':/usr/local/include/TString.h:484: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Bool_t TString::BeginsWith(const char*, TString::ECaseCompare) const':/usr/local/include/TString.h:538: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Bool_t TString::Contains(const char*, TString::ECaseCompare) const':/usr/local/include/TString.h:547: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'Ssiz_t TString::Index(const char*, Ssiz_t, TString::ECaseCompare) const':/usr/local/include/TString.h:562: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Insert(Ssiz_t, const char*)':/usr/local/include/TString.h:572: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Prepend(const char*)':/usr/local/include/TString.h:584: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::Replace(Ssiz_t, Ssiz_t, const char*)':/usr/local/include/TString.h:605: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const TString&, const char*)':/usr/local/include/TString.h:618: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const TString&)':/usr/local/include/TString.h:621: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h: In member function 'TString& TString::ReplaceAll(const char*, const char*)':/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value/usr/local/include/TString.h:624: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp: In member function 'virtual void tracking_evaluate_Test::TestBody()':/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:28: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp:28: warning: implicit conversion shortens 64-bit value into a 32-bit value15(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-377874207#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#476#105#5(36%IDEActivityLogHeaderInclusionMessage4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#18446744073709551615#471#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^471#18446744073709551615#471#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#675#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#18446744073709551615#483#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^483#18446744073709551615#483#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#901#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#18446744073709551615#537#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^537#18446744073709551615#537#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#1125#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#18446744073709551615#546#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^546#18446744073709551615#546#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#1354#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#18446744073709551615#561#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^561#18446744073709551615#561#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#1557#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#18446744073709551615#571#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^571#18446744073709551615#571#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#1753#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#18446744073709551615#583#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^583#18446744073709551615#583#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#1965#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#18446744073709551615#604#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^604#18446744073709551615#604#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#2180#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#18446744073709551615#617#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^617#18446744073709551615#617#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#2395#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#18446744073709551615#620#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^620#18446744073709551615#620#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#2607#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#2712#105#5(4@101"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp-377874209#18446744073709551615#0#-0#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---4@105"In file included from /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h-377874209#18446744073709551615#0#-0#-3@99"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/particle_collection.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TGraph.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TGraph.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---4@49"In file included from /usr/local/include/TNamed.h-377874209#18446744073709551615#0#-0#-3@43"file://localhost/usr/local/include/TNamed.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2@93"Implicit conversion shortens 64-bit value into a 32-bit value in /usr/local/include/TString.h-377874209#18446744073709551615#0#-0#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#---1#-3@44"file://localhost/usr/local/include/TString.h0000000000000000^623#18446744073709551615#623#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#2968#155#-1#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--2@61"Implicit conversion shortens 64-bit value into a 32-bit value-377874209#3123#155#-1#-3@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#61"Implicit conversion shortens 64-bit value into a 32-bit value--0#0#0#-19%DVTDocumentLocation5@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp0000000000000000^2125"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o" tracking-test.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/tracking-gtest.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/usr/local/include -I/Users/Jon/developer/testing/gtest-1-1.6.0/include/gtest -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/tracking-test.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-test.o"36"2EE8EBD6-F034-40D0-B536-45D862EDA430-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest" normal x86_64
+s377874210.011579
+e377874210.659297
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtestb5150322e785b641^8ac8a822e785b641^---0#0#0#--1622"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/usr/local/lib -L/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../DerivedData/Transverse Matching/Build/Products/Debug" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking/../lib -F/Users/Jon/Documents/BNL_Research/Developer/Matching/Tracking -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Tracking.build/Debug/tracking-gtest.build/Objects-normal/x86_64/tracking-gtest.LinkFileList" -mmacosx-version-min=10.8 -L/usr/local/lib -lGpad -lHist -lGraf -lGraf3d -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lRIO -lNet -lThread -lCore -lCint -lpthread -Wl -lm -rpath,/usr/local/lib -stdlib=libc++ -llinear_alg_objects -lTracking -framework gtest -lgtest_main -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/tracking-gtest"36"E9C574A1-582C-474E-B781-8CB50F242333-
+

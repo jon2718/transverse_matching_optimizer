@@ -1,0 +1,584 @@
+TMetrics
+v5
+r1
+cCheck dependencies
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" normal x86_64
+cPBXCp objectivefunctional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/objectivefunctional.h
+cPBXCp objective.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/objective.h
+cPBXCp match_functional_multi.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h
+cPBXCp match_functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h
+cPBXCp functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h
+cPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/Metrics.LinkFileList
+c0000000050E5E40D0000000000000380
+t1357243405
+s896
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o
+t1357328151
+s31476
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o
+t1357328152
+s48136
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o
+t1357333739
+s123140
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o
+t1357243406
+s26724
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o
+t1357328151
+s34688
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib
+t1357333739
+s70464
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/../DerivedData/Transverse Matching/Build/Products/Debug/libPhase Space Propagation.dylib
+c0000000050E72E990000000000008E1C
+t1357328025
+s36380
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp
+c0000000050E0CE2D0000000000000176
+t1356910125
+s374
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.h
+c0000000050E72F150000000000000227
+t1357328149
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/liblinear_alg_objects.dylib
+c00000000505CE587000000000000FF14
+t1348265351
+s65300
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp
+c0000000050E727830000000000000664
+t1357326211
+s1636
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.h
+c0000000050E72EDC0000000000000369
+t1357328092
+s873
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp
+c0000000050E744E400000000000008A5
+t1357333732
+s2213
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.h
+c0000000050E72ECD00000000000003ED
+t1357328077
+s1005
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp
+c00000000509FC4AD00000000000000A5
+t1352647853
+s165
+i"objective.h"
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.h
+c0000000050A2BB9A0000000000000227
+t1352842138
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp
+c0000000050E02D7700000000000001F2
+t1356868983
+s498
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.h
+c0000000050A2563C00000000000002E4
+t1352816188
+s740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/clonable.h
+c0000000050DF4F52000000000000017E
+t1356812114
+s382
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h
+t1357328152
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/integrator.h
+c0000000050A2E27900000000000002B4
+t1352852089
+s692
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/interpolate_base.h
+c0000000050E72E64000000000000059A
+t1357327972
+s1434
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/map.h
+c0000000050E5E40C0000000000000582
+t1357243404
+s1410
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h
+t1357328097
+s873
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h
+t1357328097
+s1005
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/matrix.h
+c0000000050D4A09D000000000000073C
+t1356112029
+s1852
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/objective.h
+t1352848015
+s551
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/objectivefunctional.h
+t1352848015
+s740
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/physical_constants.h
+c0000000050CF8CA400000000000001A7
+t1355779236
+s423
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/sep_hamiltonian.h
+c0000000050E5E40C0000000000000D23
+t1357243404
+s3363
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/include/vector.h
+c0000000050D4A0380000000000000734
+t1356111928
+s1844
+
+N/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib
+t1357333739
+s70464
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_char.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_double.h
+c000000004FE8F9090000000000000971
+t1340668169
+s2417
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_float.h
+c000000004FE8F90900000000000009FD
+t1340668169
+s2557
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_complex_long_double.h
+c000000004FE8F9090000000000000ACF
+t1340668169
+s2767
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_double.h
+c000000004FE8F9090000000000000889
+t1340668169
+s2185
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_float.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_int.h
+c000000004FE8F90900000000000008CF
+t1340668169
+s2255
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long.h
+c000000004FE8F90900000000000008F2
+t1340668169
+s2290
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_long_double.h
+c000000004FE8F90900000000000009E7
+t1340668169
+s2535
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_short.h
+c000000004FE8F9090000000000000915
+t1340668169
+s2325
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uchar.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_uint.h
+c000000004FE8F9090000000000000922
+t1340668169
+s2338
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ulong.h
+c000000004FE8F9090000000000000945
+t1340668169
+s2373
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_block_ushort.h
+c000000004FE8F9090000000000000968
+t1340668169
+s2408
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_check_range.h
+c000000004FE8F909000000000000062B
+t1340668169
+s1579
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_complex.h
+c000000004FE8F9090000000000000D2E
+t1340668169
+s3374
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_errno.h
+c000000004FE8F909000000000000174D
+t1340668169
+s5965
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_inline.h
+c000000004FE8F90F000000000000099F
+t1340668175
+s2463
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_char.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_double.h
+c000000004FE8F909000000000000311A
+t1340668169
+s12570
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_float.h
+c000000004FE8F90900000000000035C6
+t1340668169
+s13766
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_complex_long_double.h
+c000000004FE8F9090000000000003AB8
+t1340668169
+s15032
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_double.h
+c000000004FE8F9090000000000002B80
+t1340668169
+s11136
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_float.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_int.h
+c000000004FE8F9090000000000002E45
+t1340668169
+s11845
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long.h
+c000000004FE8F9090000000000002F22
+t1340668169
+s12066
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_long_double.h
+c000000004FE8F909000000000000352D
+t1340668169
+s13613
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_short.h
+c000000004FE8F9090000000000002FFF
+t1340668169
+s12287
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uchar.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_uint.h
+c000000004FE8F9090000000000002FC2
+t1340668169
+s12226
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ulong.h
+c000000004FE8F909000000000000309F
+t1340668169
+s12447
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_matrix_ushort.h
+c000000004FE8F909000000000000317C
+t1340668169
+s12668
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_types.h
+c000000004FE8F90F000000000000047D
+t1340668175
+s1149
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector.h
+c000000004FE8F9090000000000000256
+t1340668169
+s598
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_char.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex.h
+c000000004FE8F90900000000000002FC
+t1340668169
+s764
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_double.h
+c000000004FE8F909000000000000204C
+t1340668169
+s8268
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_float.h
+c000000004FE8F9090000000000002377
+t1340668169
+s9079
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_complex_long_double.h
+c000000004FE8F90900000000000026EF
+t1340668169
+s9967
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_double.h
+c000000004FE8F9090000000000001A87
+t1340668169
+s6791
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_float.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_int.h
+c000000004FE8F9090000000000001C20
+t1340668169
+s7200
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long.h
+c000000004FE8F9090000000000001CB2
+t1340668169
+s7346
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_long_double.h
+c000000004FE8F90900000000000020B0
+t1340668169
+s8368
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_short.h
+c000000004FE8F9090000000000001D44
+t1340668169
+s7492
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uchar.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_uint.h
+c000000004FE8F9090000000000001D52
+t1340668169
+s7506
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ulong.h
+c000000004FE8F9090000000000001DE4
+t1340668169
+s7652
+
+N/Users/Jon/developer/num_libraries/gsl-1.15-install/include/gsl/gsl_vector_ushort.h
+c000000004FE8F9090000000000001E76
+t1340668169
+s7798
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp
+r0
+
+CBuild AST from /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescff929ba7d97b641^83352aba7d97b641^---0#1#0#--18"Check dependencies36"DAF6F7F0-D328-4A06-8F0E-3BBCF1441F52-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020950.907895
+e379020951.564858
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp:20:9: warning: variable 'result' is uninitialized when used here [-Wuninitialized]
+o        return result;
+o               ^~~~~~
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp:14:15: note: initialize the variable 'result' to silence this warning
+o        double result;
+o                     ^
+o                      = 0.0
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cppa584e8966697b641^7fc29d976697b641^-445"/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp:20:9: warning: variable 'result' is uninitialized when used here [-Wuninitialized]        return result;               ^~~~~~/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp:14:15: note: initialize the variable 'result' to silence this warning        double result;                     ^                      = 0.01 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@49"Variable 'result' is uninitialized when used here-379020951#18446744073709551615#0#1(2@56"Initialize the variable 'result' to silence this warning-379020951#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp0000000000000000^13#14#13#14#274#0#14"Semantic Issue1(3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp0000000000000000^13#14#13#14#274#0#-1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp0000000000000000^19#8#19#8#365#0#14"Semantic Issue1(3@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp0000000000000000^19#8#19#14#365#0#-0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp0000000000000000^3298"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o" functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/functional.o"36"8C2D9BE1-36D9-401D-9C6E-8B6564009994-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020951.591647
+e379020952.044817
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp:44:9: warning: unused variable 'coshr' [-Wunused-variable]
+o        double coshr=0.5*pow(a*a+b*b,0.5);
+o               ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp:57:1: warning: control reaches end of non-void function [-Wreturn-type]
+o}
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cppf9a097976697b641^978c0b986697b641^-381"/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp:44:9: warning: unused variable 'coshr' [-Wunused-variable]        double coshr=0.5*pow(a*a+b*b,0.5);               ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp:57:1: warning: control reaches end of non-void function [-Wreturn-type]}^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'coshr'-379020952#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp0000000000000000^43#8#43#8#1348#0#19"Unused Entity Issue--2@40"Control reaches end of non-void function-379020952#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@97"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp0000000000000000^56#0#56#0#1632#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp0000000000000000^3334"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o" match_functional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional.o"36"C6359A9C-1474-47B7-B5FD-880473D63876-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379026537.961472
+e379026539.126354
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp:66:9: warning: unused variable 'infitesimal' [-Wunused-variable]
+o        double infitesimal=0.00001;
+o               ^
+o/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp:70:1: warning: control reaches end of non-void function [-Wreturn-type]
+o}
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cppfe43f6697c97b641^4660206b7c97b641^-392"/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp:66:9: warning: unused variable 'infitesimal' [-Wunused-variable]        double infitesimal=0.00001;               ^/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp:70:1: warning: control reaches end of non-void function [-Wreturn-type]}^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@29"Unused variable 'infitesimal'-379026539#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@103"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp0000000000000000^65#8#65#8#2182#0#19"Unused Entity Issue--2@40"Control reaches end of non-void function-379026539#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@103"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp0000000000000000^69#0#69#0#2209#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@103"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp0000000000000000^3370"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o" match_functional_multi.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/match_functional_multi.o"36"07D7B13E-8343-4F23-BC33-87DE57E81A61-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s378936205.691733
+e378936206.059461
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp06f4b28d1b96b641^61380f8e1b96b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp0000000000000000^3292"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o" objective.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objective.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objective.o"36"6C661919-2355-4D3B-93D6-DC43226FEAD3-
+
+CCompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o" /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379020950.906859
+e379020951.680969
+r1
+xCompileC
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp5645e8966697b641^fab3b3976697b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp0000000000000000^3352"CompileC "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o" objectivefunctional.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-generated-files.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-own-target-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-all-target-headers.hmap" -iquote "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Metrics-project-headers.hmap" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/include" -I/Users/Jon/Documents/BNL_Research/Developer/Matching/include -I/Users/Jon/developer/num_libraries/gsl-1.15-install/include "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources/x86_64" "-I/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/DerivedSources" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -MMD -MT dependencies -MF "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.d" --serialize-diagnostics "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.dia" -c /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/objectivefunctional.cpp -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/objectivefunctional.o"36"EE7C5437-743C-410A-AE47-C51EB135AA5F-
+
+CLd "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" normal x86_64
+s379026539.133330
+e379026539.503376
+r1
+xLd
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib2e39226b7c97b641^020d826b7c97b641^---0#0#0#--1449"Ld "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" normal x86_64    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -L/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics -L/Users/Jon/Documents/BNL_Research/Developer/Matching/lib "-L/Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/../DerivedData/Transverse Matching/Build/Products/Debug" "-F/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug" -filelist "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Intermediates/Metrics.build/Debug/Metrics.build/Objects-normal/x86_64/Metrics.LinkFileList" -install_name /usr/local/lib/libMetrics.dylib -mmacosx-version-min=10.8 -llinear_alg_objects "-lPhase Space Propagation" -single_module -compatibility_version 1 -current_version 1 -o "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib"36"129E7377-8A8D-4BEE-A93A-4B294768C47D-
+
+CPBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib
+s379026539.521799
+e379026539.528170
+r1
+xPBXCp
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib8fa7856b7c97b641^1536876b7c97b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib0000000000000000^567"PBXCp "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib/libMetrics.dylib    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Jon/Documents/BNL_Research/Developer/Matching/DerivedData/Transverse Matching/Build/Products/Debug/libMetrics.dylib" /Users/Jon/Documents/BNL_Research/Developer/Matching/lib36"BF6CD1D9-1803-4E8D-A9F3-C48FC0F9929A-
+
+CPBXCp functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h
+s379020952.254438
+e379020952.258498
+r1
+xPBXCp
+xfunctional.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.hce3441986697b641^c24d42986697b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h0000000000000000^408"PBXCp functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/functional.h    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"600A8FAD-7129-4536-9CA3-65A8A5101613-
+
+CPBXCp match_functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h
+s379020897.518642
+e379020897.522561
+r1
+xPBXCp
+xmatch_functional.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.hc8d184616697b641^d2c685616697b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h0000000000000000^426"PBXCp match_functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional.h    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"C50E2DDA-6629-4277-A8C5-B7466B434916-
+
+CPBXCp match_functional_multi.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h
+s379020897.518182
+e379020897.520993
+r1
+xPBXCp
+xmatch_functional_multi.h
+x/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h4ab884616697b641^7b6685616697b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h0000000000000000^444"PBXCp match_functional_multi.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/match_functional_multi.h    cd /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Jon/Documents/BNL_Research/Developer/Matching/Metrics/match_functional_multi.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include36"61DE24AC-31A8-4D6B-91EA-5BA0CCFCA657-
+
+CPBXCp objective.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/objective.h
+r0
+
+CPBXCp objectivefunctional.h /Users/Jon/Documents/BNL_Research/Developer/Matching/include/objectivefunctional.h
+r0
+
