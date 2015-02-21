@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0020C595-5000-4755-8F48-2BD75B1989FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>linear_alg_objects</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B536CAAB47FB50623C29BCE70AAA97EF4081CA25</key>
+		<string>https://stash.thesoniccloud.com/scm/phys/matching.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>linear_alg_objects/linear_alg_objects.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B536CAAB47FB50623C29BCE70AAA97EF4081CA25</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://stash.thesoniccloud.com/scm/phys/matching.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B536CAAB47FB50623C29BCE70AAA97EF4081CA25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B536CAAB47FB50623C29BCE70AAA97EF4081CA25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>matching</string>
+		</dict>
+	</array>
+</dict>
+</plist>

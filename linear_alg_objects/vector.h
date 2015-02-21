@@ -5,9 +5,10 @@
 //  Created by Jon Lederman on 6/29/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
-#include <iostream>
+
 #ifndef linear_alg_objects_vector_h
 #define linear_alg_objects_vector_h
+#include <iostream>
 #include "gsl/gsl_vector.h"
 
 namespace linalg

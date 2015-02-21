@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A02CF03D-EB92-49E3-936F-9ECC1CB239AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Transverse Matching</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8308663-C6BC-445B-B2E9-814FE0DDE527</key>
+		<string>https://stash.thesoniccloud.com/scm/phys/matching.git</string>
+		<key>E782B30B-494D-46DD-AE32-F7EA0413F32C</key>
+		<string>https://stash.thesoniccloud.com/scm/phys/matching.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Transverse Matching.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>447F695E-7F1A-4B2A-A95E-C7A48F793F17</key>
+		<string>../Phase Space Propagation</string>
+		<key>626CDBB5-FD90-4A4A-9364-84A610B8BD49</key>
+		<string>../Root Plotting Extensions</string>
+		<key>B8308663-C6BC-445B-B2E9-814FE0DDE527</key>
+		<string>..</string>
+		<key>E782B30B-494D-46DD-AE32-F7EA0413F32C</key>
+		<string>../Interpolators</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://stash.thesoniccloud.com/scm/phys/matching.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8308663-C6BC-445B-B2E9-814FE0DDE527</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E782B30B-494D-46DD-AE32-F7EA0413F32C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Interpolators</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8308663-C6BC-445B-B2E9-814FE0DDE527</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Matching</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>447F695E-7F1A-4B2A-A95E-C7A48F793F17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Phase Space Propagation</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>626CDBB5-FD90-4A4A-9364-84A610B8BD49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Root Plotting Extensions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
